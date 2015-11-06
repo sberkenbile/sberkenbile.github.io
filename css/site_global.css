@@ -138,12 +138,17 @@ a.nontext /* used to override default properties of 'a' tag */
 .Things-I-like---Body
 {
 	color: #000000;
+	font-family: phoreuscherokee, sans-serif;
 	font-size: 17px;
+	font-style: italic;
+	font-weight: 400;
 	letter-spacing: 3px;
 }
 
 .Email---Web-Address
 {
+	font-family: phoreuscherokee, sans-serif;
+	font-weight: 600;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }

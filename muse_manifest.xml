@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446842111678">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446854173039">
   <folder name="css">
-    <file name="site_global.css" crc="269245419"/>
-    <file name="index.css" crc="3814948631" ref="index"/>
+    <file name="site_global.css" crc="4254325523"/>
+    <file name="index.css" crc="312687430" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="sierra-berkenbile-resume-november-2015.pdf" crc="282248443" seo="true" mt="1446776830000"/>
+    <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4108933322" seo="true" mt="1446851322000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -36,7 +36,6 @@
     <file name="u833_states.png" crc="4112290653" ref="index"/>
     <file name="u833_states-r.png" crc="4112290653" ref="index"/>
     <file name="u833_states-m.png" crc="232695979" ref="index"/>
-    <file name="dsc01620.jpg" crc="56705369" ref="index"/>
     <file name="acorn.svg" crc="345861504" ref="index"/>
     <file name="acorn_poster_.png" crc="14874755" ref="index"/>
     <file name="download168.svg" crc="380215376" ref="index"/>
@@ -58,15 +57,13 @@
     <file name="line art.svg" crc="3916567828" ref="index"/>
     <file name="line art_poster_.png" crc="65175914" ref="index"/>
     <file name="ad_ dahlgren chapel it-s a win twitter banner.jpg" crc="3997624504" seo="true" ref="index"/>
-    <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u4427.jpg" crc="3804552055" ref="index"/>
+    <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u4427.jpg" crc="145047956" ref="index"/>
     <file name="u4430-4.png" crc="371276131" ref="index"/>
     <file name="u3061-3.png" crc="432382633" ref="index"/>
     <file name="u3066-3.png" crc="400172296" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="13iron fist newsletter 819.jpg" crc="4033837883" seo="true" ref="index"/>
     <file name="14jump from paper newsletter3.jpg" crc="4100772715" seo="true" ref="index"/>
-    <file name="12 4th of july newsletter.jpg" crc="478360395" seo="true" ref="index"/>
-    <file name="12abbey dawn pretty please newsletter block.jpg" crc="4188221988" seo="true" ref="index"/>
     <file name="15neff hp 1 watches newsletter.jpg" crc="287962690" seo="true" ref="index"/>
     <file name="16spirithoods newsletter.jpg" crc="3830128673" seo="true" ref="index"/>
     <file name="17vans newsletter block 2.jpg" crc="37538870" seo="true" ref="index"/>
@@ -82,53 +79,51 @@
     <file name="27herschel brand banner 2.jpg" crc="357458151" seo="true" ref="index"/>
     <file name="28ray ban brand banner.jpg" crc="350909384" seo="true" ref="index"/>
     <file name="29obey x keith haring brand banner.jpg" crc="12943114" seo="true" ref="index"/>
-    <file name="13iron fist newsletter 81983x83.jpg" crc="210565315" seo="true" ref="index"/>
+    <file name="13iron fist newsletter 81983x83.jpg" crc="3771758009" seo="true" ref="index"/>
     <file name="14jump from paper newsletter383x83.jpg" crc="4010659506" seo="true" ref="index"/>
-    <file name="12 4th of july newsletter83x83.jpg" crc="4228631422" seo="true" ref="index"/>
-    <file name="12abbey dawn pretty please newsletter block83x83.jpg" crc="4139941851" seo="true" ref="index"/>
     <file name="15neff hp 1 watches newsletter83x83.jpg" crc="481050863" seo="true" ref="index"/>
-    <file name="16spirithoods newsletter-crop-u3392.jpg" crc="3808748001" ref="index"/>
+    <file name="16spirithoods newsletter-crop-u3392.jpg" crc="3905266856" ref="index"/>
     <file name="17vans newsletter block 283x83.jpg" crc="4222376990" seo="true" ref="index"/>
     <file name="18fathers day83x83.jpg" crc="3999006433" seo="true" ref="index"/>
-    <file name="19benny gold homepage-crop-u3378.jpg" crc="4006783074" ref="index"/>
-    <file name="20herschel homepage-crop-u3388.jpg" crc="277400786" ref="index"/>
-    <file name="21rupaul homepage-crop-u3366.jpg" crc="473134234" ref="index"/>
-    <file name="22wesc homepage1-crop-u3384.jpg" crc="3848883789" ref="index"/>
-    <file name="23memorial day homepage-crop-u3400.jpg" crc="3921984895" ref="index"/>
-    <file name="24jump from paper homepage 2-crop-u3382.jpg" crc="270536415" ref="index"/>
-    <file name="25huf_hp-crop-u3390.jpg" crc="4194222756" ref="index"/>
-    <file name="26obeykeithharing homepage-crop-u3362.jpg" crc="23072984" ref="index"/>
-    <file name="27herschel brand banner 2-crop-u3376.jpg" crc="234487082" ref="index"/>
-    <file name="28ray ban brand banner-crop-u3394.jpg" crc="4067525098" ref="index"/>
-    <file name="29obey x keith haring brand banner-crop-u3386.jpg" crc="495126159" ref="index"/>
+    <file name="19benny gold homepage-crop-u3378.jpg" crc="4258240224" ref="index"/>
+    <file name="20herschel homepage-crop-u3388.jpg" crc="4203616761" ref="index"/>
+    <file name="21rupaul homepage-crop-u3366.jpg" crc="4027567228" ref="index"/>
+    <file name="22wesc homepage1-crop-u3384.jpg" crc="76074415" ref="index"/>
+    <file name="23memorial day homepage-crop-u3400.jpg" crc="3983827562" ref="index"/>
+    <file name="24jump from paper homepage 2-crop-u3382.jpg" crc="58715672" ref="index"/>
+    <file name="25huf_hp-crop-u3390.jpg" crc="4191514101" ref="index"/>
+    <file name="26obeykeithharing homepage-crop-u3362.jpg" crc="4057232249" ref="index"/>
+    <file name="27herschel brand banner 2-crop-u3376.jpg" crc="425206719" ref="index"/>
+    <file name="28ray ban brand banner-crop-u3394.jpg" crc="3836575357" ref="index"/>
+    <file name="29obey x keith haring brand banner-crop-u3386.jpg" crc="521650545" ref="index"/>
     <file name="u3427-4.png" crc="4186497523" ref="index"/>
     <file name="u3428-4.png" crc="346463157" ref="index"/>
-    <file name="16spirithoods newsletter-crop-u3557.jpg" crc="3808748001" ref="index"/>
-    <file name="19benny gold homepage-crop-u3543.jpg" crc="4006783074" ref="index"/>
-    <file name="20herschel homepage-crop-u3553.jpg" crc="277400786" ref="index"/>
-    <file name="21rupaul homepage-crop-u3531.jpg" crc="473134234" ref="index"/>
-    <file name="22wesc homepage1-crop-u3549.jpg" crc="3848883789" ref="index"/>
-    <file name="23memorial day homepage-crop-u3565.jpg" crc="3921984895" ref="index"/>
-    <file name="24jump from paper homepage 2-crop-u3547.jpg" crc="270536415" ref="index"/>
-    <file name="25huf_hp-crop-u3555.jpg" crc="4194222756" ref="index"/>
-    <file name="26obeykeithharing homepage-crop-u3527.jpg" crc="23072984" ref="index"/>
-    <file name="27herschel brand banner 2-crop-u3541.jpg" crc="234487082" ref="index"/>
-    <file name="28ray ban brand banner-crop-u3559.jpg" crc="4067525098" ref="index"/>
-    <file name="29obey x keith haring brand banner-crop-u3551.jpg" crc="495126159" ref="index"/>
+    <file name="16spirithoods newsletter-crop-u3557.jpg" crc="3905266856" ref="index"/>
+    <file name="19benny gold homepage-crop-u3543.jpg" crc="4258240224" ref="index"/>
+    <file name="20herschel homepage-crop-u3553.jpg" crc="4203616761" ref="index"/>
+    <file name="21rupaul homepage-crop-u3531.jpg" crc="4027567228" ref="index"/>
+    <file name="22wesc homepage1-crop-u3549.jpg" crc="76074415" ref="index"/>
+    <file name="23memorial day homepage-crop-u3565.jpg" crc="3983827562" ref="index"/>
+    <file name="24jump from paper homepage 2-crop-u3547.jpg" crc="58715672" ref="index"/>
+    <file name="25huf_hp-crop-u3555.jpg" crc="4191514101" ref="index"/>
+    <file name="26obeykeithharing homepage-crop-u3527.jpg" crc="4057232249" ref="index"/>
+    <file name="27herschel brand banner 2-crop-u3541.jpg" crc="425206719" ref="index"/>
+    <file name="28ray ban brand banner-crop-u3559.jpg" crc="3836575357" ref="index"/>
+    <file name="29obey x keith haring brand banner-crop-u3551.jpg" crc="521650545" ref="index"/>
     <file name="u3592-4.png" crc="4186497523" ref="index"/>
     <file name="u3593-4.png" crc="346463157" ref="index"/>
-    <file name="16spirithoods newsletter-crop-u3715.jpg" crc="3808748001" ref="index"/>
-    <file name="19benny gold homepage-crop-u3701.jpg" crc="4006783074" ref="index"/>
-    <file name="20herschel homepage-crop-u3711.jpg" crc="277400786" ref="index"/>
-    <file name="21rupaul homepage-crop-u3689.jpg" crc="473134234" ref="index"/>
-    <file name="22wesc homepage1-crop-u3707.jpg" crc="3848883789" ref="index"/>
-    <file name="23memorial day homepage-crop-u3723.jpg" crc="3921984895" ref="index"/>
-    <file name="24jump from paper homepage 2-crop-u3705.jpg" crc="270536415" ref="index"/>
-    <file name="25huf_hp-crop-u3713.jpg" crc="4194222756" ref="index"/>
-    <file name="26obeykeithharing homepage-crop-u3685.jpg" crc="23072984" ref="index"/>
-    <file name="27herschel brand banner 2-crop-u3699.jpg" crc="234487082" ref="index"/>
-    <file name="28ray ban brand banner-crop-u3717.jpg" crc="4067525098" ref="index"/>
-    <file name="29obey x keith haring brand banner-crop-u3709.jpg" crc="495126159" ref="index"/>
+    <file name="16spirithoods newsletter-crop-u3715.jpg" crc="3905266856" ref="index"/>
+    <file name="19benny gold homepage-crop-u3701.jpg" crc="4258240224" ref="index"/>
+    <file name="20herschel homepage-crop-u3711.jpg" crc="4203616761" ref="index"/>
+    <file name="21rupaul homepage-crop-u3689.jpg" crc="4027567228" ref="index"/>
+    <file name="22wesc homepage1-crop-u3707.jpg" crc="76074415" ref="index"/>
+    <file name="23memorial day homepage-crop-u3723.jpg" crc="3983827562" ref="index"/>
+    <file name="24jump from paper homepage 2-crop-u3705.jpg" crc="58715672" ref="index"/>
+    <file name="25huf_hp-crop-u3713.jpg" crc="4191514101" ref="index"/>
+    <file name="26obeykeithharing homepage-crop-u3685.jpg" crc="4057232249" ref="index"/>
+    <file name="27herschel brand banner 2-crop-u3699.jpg" crc="425206719" ref="index"/>
+    <file name="28ray ban brand banner-crop-u3717.jpg" crc="3836575357" ref="index"/>
+    <file name="29obey x keith haring brand banner-crop-u3709.jpg" crc="521650545" ref="index"/>
     <file name="u3750-4.png" crc="4186497523" ref="index"/>
     <file name="u3751-4.png" crc="346463157" ref="index"/>
     <file name="website timeline.svg" crc="316823135" ref="index"/>
@@ -214,6 +209,32 @@
     <file name="line art box with photo 2-01.png" crc="3878643618" seo="true" ref="index"/>
     <file name="u2167-11.png" crc="403166859" ref="index"/>
     <file name="u4790-4.png" crc="3973711958" ref="index"/>
+    <file name="dsc01620-u2607-3.png" crc="8524030" ref="index"/>
+    <file name="4th of july newsletter.jpg" crc="478360395" seo="true" ref="index"/>
+    <file name="abbey dawn pretty please newsletter block.jpg" crc="4188221988" seo="true" ref="index"/>
+    <file name="4th of july newsletter83x83.jpg" crc="459520118" seo="true" ref="index"/>
+    <file name="abbey dawn pretty please newsletter block83x83.jpg" crc="182554587" seo="true" ref="index"/>
+    <file name="u3744-4.png" crc="3784432656" ref="index"/>
+    <file name="u3746-4.png" crc="488178214" ref="index"/>
+    <file name="u3740-4.png" crc="182703832" ref="index"/>
+    <file name="u3745-4.png" crc="3872613594" ref="index"/>
+    <file name="u3741-4.png" crc="41727166" ref="index"/>
+    <file name="u3734-4.png" crc="4236506548" ref="index"/>
+    <file name="u3732-4.png" crc="328605061" ref="index"/>
+    <file name="u3733-4.png" crc="44915025" ref="index"/>
+    <file name="u3742-4.png" crc="3886739384" ref="index"/>
+    <file name="u3736-4.png" crc="477812725" ref="index"/>
+    <file name="u3747-4.png" crc="3859006068" ref="index"/>
+    <file name="u3731-4.png" crc="4198879875" ref="index"/>
+    <file name="u3737-4.png" crc="4019485659" ref="index"/>
+    <file name="u3729-4.png" crc="3904453543" ref="index"/>
+    <file name="u3735-4.png" crc="236012488" ref="index"/>
+    <file name="u3739-4.png" crc="99492419" ref="index"/>
+    <file name="u3748-4.png" crc="4006448772" ref="index"/>
+    <file name="u3738-4.png" crc="422177031" ref="index"/>
+    <file name="u3728-4.png" crc="3786334850" ref="index"/>
+    <file name="u3730-4.png" crc="3910733692" ref="index"/>
+    <file name="u3743-4.png" crc="225418080" ref="index"/>
   </folder>
-  <file name="index.html" crc="4262312036" seo="true" mt="1446842105452" redirect="true"/>
+  <file name="index.html" crc="384317671" seo="true" mt="1446854166670" redirect="true"/>
 </manifest>
