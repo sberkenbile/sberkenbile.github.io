@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446788676317">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446842111678">
   <folder name="css">
     <file name="site_global.css" crc="269245419"/>
-    <file name="index.css" crc="3921343224" ref="index"/>
+    <file name="index.css" crc="3814948631" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="282248443" seo="true" mt="1446776830000"/>
@@ -29,9 +29,6 @@
     <file name="u567_states.png" crc="479608537" ref="index"/>
     <file name="u567_states-r.png" crc="479608537" ref="index"/>
     <file name="u567_states-m.png" crc="4223864573" ref="index"/>
-    <file name="u572.png" crc="502307777" ref="index"/>
-    <file name="u572-r.png" crc="502307777" ref="index"/>
-    <file name="u572-m.png" crc="4075597210" ref="index"/>
     <file name="sierra berkenbile logo 2015 - final web header-u596.png" crc="223440874" ref="index"/>
     <file name="u831_states.png" crc="283607715" ref="index"/>
     <file name="u831_states-r.png" crc="283607715" ref="index"/>
@@ -40,28 +37,26 @@
     <file name="u833_states-r.png" crc="4112290653" ref="index"/>
     <file name="u833_states-m.png" crc="232695979" ref="index"/>
     <file name="dsc01620.jpg" crc="56705369" ref="index"/>
-    <file name="line art box with photo 2.svg" crc="3835722560" ref="index"/>
     <file name="acorn.svg" crc="345861504" ref="index"/>
     <file name="acorn_poster_.png" crc="14874755" ref="index"/>
-    <file name="u2163-4.png" crc="474685178" ref="index"/>
     <file name="download168.svg" crc="380215376" ref="index"/>
-    <file name="download168_poster_.png" crc="4100836096" ref="index"/>
+    <file name="download168_poster_.png" crc="130434755" ref="index"/>
     <file name="eye110.svg" crc="356990448" ref="index"/>
-    <file name="eye110_poster_.png" crc="4201745221" ref="index"/>
-    <file name="u1337.png" crc="333571715" ref="index"/>
-    <file name="u1337-r.png" crc="3851258920" ref="index"/>
-    <file name="u1337-a.png" crc="333571715" ref="index"/>
-    <file name="u1340.png" crc="345885172" ref="index"/>
-    <file name="u1340-r.png" crc="168599408" ref="index"/>
-    <file name="u1340-a.png" crc="383208165" ref="index"/>
-    <file name="u1388.png" crc="3941952372" ref="index"/>
-    <file name="u1388-r.png" crc="3914962868" ref="index"/>
-    <file name="u1388-a.png" crc="73853215" ref="index"/>
-    <file name="u1385.png" crc="488537420" ref="index"/>
-    <file name="u1385-r.png" crc="4098530992" ref="index"/>
-    <file name="u1385-a.png" crc="94333499" ref="index"/>
+    <file name="eye110_poster_.png" crc="286882682" ref="index"/>
+    <file name="u1337.png" crc="3780607992" ref="index"/>
+    <file name="u1337-r.png" crc="4238237905" ref="index"/>
+    <file name="u1337-a.png" crc="3780607992" ref="index"/>
+    <file name="u1340.png" crc="4169774701" ref="index"/>
+    <file name="u1340-r.png" crc="73192950" ref="index"/>
+    <file name="u1340-a.png" crc="472820574" ref="index"/>
+    <file name="u1388.png" crc="274740817" ref="index"/>
+    <file name="u1388-r.png" crc="4022526372" ref="index"/>
+    <file name="u1388-a.png" crc="4196946085" ref="index"/>
+    <file name="u1385.png" crc="4997681" ref="index"/>
+    <file name="u1385-r.png" crc="123924781" ref="index"/>
+    <file name="u1385-a.png" crc="4274494119" ref="index"/>
     <file name="line art.svg" crc="3916567828" ref="index"/>
-    <file name="line art_poster_.png" crc="4147891557" ref="index"/>
+    <file name="line art_poster_.png" crc="65175914" ref="index"/>
     <file name="ad_ dahlgren chapel it-s a win twitter banner.jpg" crc="3997624504" seo="true" ref="index"/>
     <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u4427.jpg" crc="3804552055" ref="index"/>
     <file name="u4430-4.png" crc="371276131" ref="index"/>
@@ -136,10 +131,6 @@
     <file name="29obey x keith haring brand banner-crop-u3709.jpg" crc="495126159" ref="index"/>
     <file name="u3750-4.png" crc="4186497523" ref="index"/>
     <file name="u3751-4.png" crc="346463157" ref="index"/>
-    <file name="u1682-4.png" crc="3973711958" ref="index"/>
-    <file name="u2167-10.png" crc="4257542150" ref="index"/>
-    <file name="printer70.svg" crc="3978632215" ref="index"/>
-    <file name="printer70_poster_.png" crc="426977095" ref="index"/>
     <file name="website timeline.svg" crc="316823135" ref="index"/>
     <file name="website timeline_poster_.png" crc="3948016539" ref="index"/>
     <file name="u3900-4.png" crc="130405754" ref="index"/>
@@ -180,24 +171,24 @@
     <file name="sized image for website home-u866-17-fs.png" crc="4271808838" ref="index"/>
     <file name="u2299-4.png" crc="3910217523" ref="index"/>
     <file name="u2298-4.png" crc="359903998" ref="index"/>
-    <file name="u3943.png" crc="286794168" ref="index"/>
-    <file name="u3943-r.png" crc="286794168" ref="index"/>
-    <file name="u3944.png" crc="133694419" ref="index"/>
-    <file name="u3944-r.png" crc="133694419" ref="index"/>
-    <file name="u3945.png" crc="3769767540" ref="index"/>
-    <file name="u3945-r.png" crc="3769767540" ref="index"/>
-    <file name="u3947.png" crc="4184820193" ref="index"/>
-    <file name="u3947-r.png" crc="4184820193" ref="index"/>
-    <file name="u3949.png" crc="153126510" ref="index"/>
-    <file name="u3949-r.png" crc="153126510" ref="index"/>
-    <file name="u3950.png" crc="4166583819" ref="index"/>
-    <file name="u3950-r.png" crc="4166583819" ref="index"/>
-    <file name="u3951.png" crc="3890854678" ref="index"/>
-    <file name="u3951-r.png" crc="3890854678" ref="index"/>
+    <file name="u3943.png" crc="3807529369" ref="index"/>
+    <file name="u3943-r.png" crc="3807529369" ref="index"/>
+    <file name="u3944.png" crc="195452931" ref="index"/>
+    <file name="u3944-r.png" crc="195452931" ref="index"/>
+    <file name="u3945.png" crc="488949010" ref="index"/>
+    <file name="u3945-r.png" crc="488949010" ref="index"/>
+    <file name="u3947.png" crc="4110148853" ref="index"/>
+    <file name="u3947-r.png" crc="4110148853" ref="index"/>
+    <file name="u3949.png" crc="3842577855" ref="index"/>
+    <file name="u3949-r.png" crc="3842577855" ref="index"/>
+    <file name="u3950.png" crc="448480930" ref="index"/>
+    <file name="u3950-r.png" crc="448480930" ref="index"/>
+    <file name="u3951.png" crc="501536526" ref="index"/>
+    <file name="u3951-r.png" crc="501536526" ref="index"/>
     <file name="u3952.png" crc="3870755170" ref="index"/>
     <file name="u3952-r.png" crc="3870755170" ref="index"/>
-    <file name="u2449.png" crc="253797139" ref="index"/>
-    <file name="u2449-r.png" crc="253797139" ref="index"/>
+    <file name="u2449.png" crc="4014965197" ref="index"/>
+    <file name="u2449-r.png" crc="4014965197" ref="index"/>
     <file name="u2450.png" crc="228188321" ref="index"/>
     <file name="u2450-r.png" crc="228188321" ref="index"/>
     <file name="u2452.png" crc="255638129" ref="index"/>
@@ -216,6 +207,13 @@
     <file name="u2468-r.png" crc="515879673" ref="index"/>
     <file name="gear icon.png" crc="4123352189" seo="true" ref="index"/>
     <file name="forward button.jpg" crc="4242225325" seo="true" ref="index"/>
+    <file name="u572_states.png" crc="502307777" ref="index"/>
+    <file name="u572_states-r.png" crc="502307777" ref="index"/>
+    <file name="u572_states-m.png" crc="4075597210" ref="index"/>
+    <file name="u4791-4.png" crc="474685178" ref="index"/>
+    <file name="line art box with photo 2-01.png" crc="3878643618" seo="true" ref="index"/>
+    <file name="u2167-11.png" crc="403166859" ref="index"/>
+    <file name="u4790-4.png" crc="3973711958" ref="index"/>
   </folder>
-  <file name="index.html" crc="219099044" seo="true" mt="1446788664579" redirect="true"/>
+  <file name="index.html" crc="4262312036" seo="true" mt="1446842105452" redirect="true"/>
 </manifest>
