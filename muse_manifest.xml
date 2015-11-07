@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446855047074">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446860486163">
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="312687430" ref="index"/>
+    <file name="index.css" crc="4082449584" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4108933322" seo="true" mt="1446851322000"/>
@@ -39,10 +39,10 @@
     <file name="acorn.svg" crc="345861504" ref="index"/>
     <file name="acorn_poster_.png" crc="14874755" ref="index"/>
     <file name="download168.svg" crc="380215376" ref="index"/>
-    <file name="download168_poster_.png" crc="130434755" ref="index"/>
+    <file name="download168_poster_.png" crc="4100836096" ref="index"/>
     <file name="eye110.svg" crc="356990448" ref="index"/>
-    <file name="eye110_poster_.png" crc="286882682" ref="index"/>
-    <file name="u1337.png" crc="3780607992" ref="index"/>
+    <file name="eye110_poster_.png" crc="4201745221" ref="index"/>
+    <file name="u1337.png" crc="387602489" ref="index"/>
     <file name="u1337-r.png" crc="4238237905" ref="index"/>
     <file name="u1337-a.png" crc="3780607992" ref="index"/>
     <file name="u1340.png" crc="4169774701" ref="index"/>
@@ -56,11 +56,8 @@
     <file name="u1385-a.png" crc="4274494119" ref="index"/>
     <file name="line art.svg" crc="3916567828" ref="index"/>
     <file name="line art_poster_.png" crc="65175914" ref="index"/>
-    <file name="ad_ dahlgren chapel it-s a win twitter banner.jpg" crc="3997624504" seo="true" ref="index"/>
-    <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u4427.jpg" crc="145047956" ref="index"/>
-    <file name="u4430-4.png" crc="371276131" ref="index"/>
-    <file name="u3061-3.png" crc="432382633" ref="index"/>
-    <file name="u3066-3.png" crc="400172296" ref="index"/>
+    <file name="ad_ dahlgren chapel it-s a win twitter banner.jpg" crc="9269781" seo="true" ref="index"/>
+    <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u4427.jpg" crc="220580324" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="13iron fist newsletter 819.jpg" crc="4033837883" seo="true" ref="index"/>
     <file name="14jump from paper newsletter3.jpg" crc="4100772715" seo="true" ref="index"/>
@@ -82,20 +79,8 @@
     <file name="13iron fist newsletter 81983x83.jpg" crc="3771758009" seo="true" ref="index"/>
     <file name="14jump from paper newsletter383x83.jpg" crc="478679539" seo="true" ref="index"/>
     <file name="15neff hp 1 watches newsletter83x83.jpg" crc="508180353" seo="true" ref="index"/>
-    <file name="16spirithoods newsletter-crop-u3392.jpg" crc="246515623" ref="index"/>
     <file name="17vans newsletter block 283x83.jpg" crc="4278629847" seo="true" ref="index"/>
     <file name="18fathers day83x83.jpg" crc="3891931978" seo="true" ref="index"/>
-    <file name="19benny gold homepage-crop-u3378.jpg" crc="3835292760" ref="index"/>
-    <file name="20herschel homepage-crop-u3388.jpg" crc="521746245" ref="index"/>
-    <file name="21rupaul homepage-crop-u3366.jpg" crc="382576613" ref="index"/>
-    <file name="22wesc homepage1-crop-u3384.jpg" crc="166877212" ref="index"/>
-    <file name="23memorial day homepage-crop-u3400.jpg" crc="151808274" ref="index"/>
-    <file name="24jump from paper homepage 2-crop-u3382.jpg" crc="522271021" ref="index"/>
-    <file name="25huf_hp-crop-u3390.jpg" crc="3859241787" ref="index"/>
-    <file name="26obeykeithharing homepage-crop-u3362.jpg" crc="3917994982" ref="index"/>
-    <file name="27herschel brand banner 2-crop-u3376.jpg" crc="101478351" ref="index"/>
-    <file name="28ray ban brand banner-crop-u3394.jpg" crc="4154402175" ref="index"/>
-    <file name="29obey x keith haring brand banner-crop-u3386.jpg" crc="4175658425" ref="index"/>
     <file name="u3427-4.png" crc="4186497523" ref="index"/>
     <file name="u3428-4.png" crc="346463157" ref="index"/>
     <file name="16spirithoods newsletter-crop-u3557.jpg" crc="246515623" ref="index"/>
@@ -235,6 +220,98 @@
     <file name="u3728-4.png" crc="3786334850" ref="index"/>
     <file name="u3730-4.png" crc="3910733692" ref="index"/>
     <file name="u3743-4.png" crc="225418080" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2.jpg" crc="314422618" seo="true" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf shirt social media post.jpg" crc="3798002601" seo="true" ref="index"/>
+    <file name="ad_ dc b-g club.jpg" crc="4069368214" seo="true" ref="index"/>
+    <file name="ad_2013 oklahoma mag mcg ad.jpg" crc="3878033349" seo="true" ref="index"/>
+    <file name="ad_naples botanical gardens ad may 2015 without border.jpg" crc="18787090" seo="true" ref="index"/>
+    <file name="graphic_build your career postcard january 2015.png" crc="3848997576" seo="true" ref="index"/>
+    <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01.jpg" crc="232067440" seo="true" ref="index"/>
+    <file name="graphic_my mentoring program.jpg" crc="3904152635" seo="true" ref="index"/>
+    <file name="graphic_repeat client graphic.png" crc="423098923" seo="true" ref="index"/>
+    <file name="graphic_rooney insurance banner graphic.png" crc="4031076440" seo="true" ref="index"/>
+    <file name="graphic_specialty contractor awards luncheon.jpg" crc="4287845493" seo="true" ref="index"/>
+    <file name="misc art_falcons placemat_page_1.jpg" crc="75629161" seo="true" ref="index"/>
+    <file name="misc art_orlando city soccer placemat.jpg" crc="4048311932" seo="true" ref="index"/>
+    <file name="misc art_smps 2014 postcard vertical.png" crc="3933842830" seo="true" ref="index"/>
+    <file name="proposal_additonal covers.png" crc="3810955491" seo="true" ref="index"/>
+    <file name="proposal_orland city soccer.png" crc="412815901" seo="true" ref="index"/>
+    <file name="proposal_ou stadium.png" crc="194734878" seo="true" ref="index"/>
+    <file name="proposal_raymond james stadium.png" crc="3852564492" seo="true" ref="index"/>
+    <file name="tshirt_3574 topping out 06 27 2014 012.jpg" crc="268871520" seo="true" ref="index"/>
+    <file name="tshirt_3588 topping out luncheon 08 08 2014 006.jpg" crc="327982858" seo="true" ref="index"/>
+    <file name="tshirt_3594 frost tower topping out 12 04 2014 010.jpg" crc="100115080" seo="true" ref="index"/>
+    <file name="tshirt_houston komen 2014 mock up 2.jpg" crc="114203829" seo="true" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2.png" crc="113491114" seo="true" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2-crop-u5460.jpg" crc="64830422" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf shirt social media post-crop-u5469.jpg" crc="199666039" ref="index"/>
+    <file name="ad_ dc b-g club-crop-u5478.jpg" crc="5184665" ref="index"/>
+    <file name="ad_2013 oklahoma mag mcg ad-crop-u5487.jpg" crc="4060226151" ref="index"/>
+    <file name="ad_naples botanical gardens ad may 2015 without border83x90.jpg" crc="3808273204" seo="true" ref="index"/>
+    <file name="graphic_build your career postcard january 2015-crop-u5505.png" crc="213362800" ref="index"/>
+    <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01102x76.jpg" crc="3927544004" seo="true" ref="index"/>
+    <file name="graphic_my mentoring program-crop-u5523.jpg" crc="396241613" ref="index"/>
+    <file name="graphic_repeat client graphic-crop-u5532.png" crc="165911768" ref="index"/>
+    <file name="graphic_rooney insurance banner graphic-crop-u5541.png" crc="4200967935" ref="index"/>
+    <file name="graphic_specialty contractor awards luncheon-crop-u5550.jpg" crc="4228941155" ref="index"/>
+    <file name="misc art_falcons placemat_page_1-crop-u5559.jpg" crc="3760765297" ref="index"/>
+    <file name="misc art_orlando city soccer placemat-crop-u5568.jpg" crc="4052037966" ref="index"/>
+    <file name="misc art_smps 2014 postcard vertical-crop-u5577.png" crc="4018854940" ref="index"/>
+    <file name="proposal_additonal covers-crop-u5586.png" crc="111993294" ref="index"/>
+    <file name="proposal_orland city soccer-crop-u5595.png" crc="329112306" ref="index"/>
+    <file name="proposal_ou stadium-crop-u5604.png" crc="128606704" ref="index"/>
+    <file name="proposal_raymond james stadium-crop-u5613.png" crc="4286434273" ref="index"/>
+    <file name="tshirt_3574 topping out 06 27 2014 012-crop-u5622.jpg" crc="533123054" ref="index"/>
+    <file name="tshirt_3588 topping out luncheon 08 08 2014 006-crop-u5631.jpg" crc="3988297788" ref="index"/>
+    <file name="tshirt_3594 frost tower topping out 12 04 2014 010-crop-u5640.jpg" crc="4039717378" ref="index"/>
+    <file name="tshirt_houston komen 2014 mock up 2-crop-u5649.jpg" crc="278584163" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2-crop-u5658.png" crc="3852392868" ref="index"/>
+    <file name="u3061-4.png" crc="4189582539" ref="index"/>
+    <file name="u3066-4.png" crc="3841458098" ref="index"/>
+    <file name="ad_2013 oklahoma mag mcg ad274x360.jpg" crc="3913818210" seo="true" ref="index"/>
+    <file name="ad_naples botanical gardens ad may 2015 without border334x360.jpg" crc="12695791" seo="true" ref="index"/>
+    <file name="ad_ dc b-g club237x360.jpg" crc="4132922197" seo="true" ref="index"/>
+    <file name="graphic_build your career postcard january 2015480x262.png" crc="4173110166" seo="true" ref="index"/>
+    <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01480x360.jpg" crc="4249130717" seo="true" ref="index"/>
+    <file name="graphic_my mentoring program279x360.jpg" crc="4170861860" seo="true" ref="index"/>
+    <file name="graphic_repeat client graphic480x328.png" crc="4170532947" seo="true" ref="index"/>
+    <file name="graphic_rooney insurance banner graphic197x360.png" crc="64058369" seo="true" ref="index"/>
+    <file name="graphic_specialty contractor awards luncheon279x360.jpg" crc="3847509474" seo="true" ref="index"/>
+    <file name="misc art_falcons placemat_page_1480x311.jpg" crc="427450304" seo="true" ref="index"/>
+    <file name="misc art_orlando city soccer placemat480x311.jpg" crc="4247139113" seo="true" ref="index"/>
+    <file name="proposal_ou stadium480x262.png" crc="4032116639" seo="true" ref="index"/>
+    <file name="misc art_smps 2014 postcard vertical480x262.png" crc="362335796" seo="true" ref="index"/>
+    <file name="proposal_orland city soccer480x262.png" crc="3844270822" seo="true" ref="index"/>
+    <file name="proposal_raymond james stadium480x262.png" crc="314590542" seo="true" ref="index"/>
+    <file name="proposal_additonal covers480x262.png" crc="3933881311" seo="true" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2480x259.jpg" crc="169538738" seo="true" ref="index"/>
+    <file name="tshirt_3574 topping out 06 27 2014 012480x319.jpg" crc="4154878363" seo="true" ref="index"/>
+    <file name="tshirt_3588 topping out luncheon 08 08 2014 006480x319.jpg" crc="3994303952" seo="true" ref="index"/>
+    <file name="tshirt_3594 frost tower topping out 12 04 2014 010480x319.jpg" crc="3953555643" seo="true" ref="index"/>
+    <file name="tshirt_houston komen 2014 mock up 2480x259.jpg" crc="4243005370" seo="true" ref="index"/>
+    <file name="ad_2013 oklahoma mag mcg ad-crop-u5149.jpg" crc="4060226151" ref="index"/>
+    <file name="ad_ dc b-g club-crop-u5140.jpg" crc="5184665" ref="index"/>
+    <file name="graphic_build your career postcard january 2015-crop-u5167.png" crc="213362800" ref="index"/>
+    <file name="graphic_my mentoring program-crop-u5185.jpg" crc="396241613" ref="index"/>
+    <file name="graphic_repeat client graphic-crop-u5194.png" crc="165911768" ref="index"/>
+    <file name="graphic_rooney insurance banner graphic-crop-u5203.png" crc="4200967935" ref="index"/>
+    <file name="graphic_specialty contractor awards luncheon-crop-u5212.jpg" crc="4228941155" ref="index"/>
+    <file name="misc art_falcons placemat_page_1-crop-u5221.jpg" crc="3760765297" ref="index"/>
+    <file name="misc art_orlando city soccer placemat-crop-u5230.jpg" crc="4052037966" ref="index"/>
+    <file name="proposal_ou stadium-crop-u5266.png" crc="128606704" ref="index"/>
+    <file name="misc art_smps 2014 postcard vertical-crop-u5239.png" crc="4018854940" ref="index"/>
+    <file name="proposal_orland city soccer-crop-u5257.png" crc="329112306" ref="index"/>
+    <file name="proposal_raymond james stadium-crop-u5275.png" crc="4286434273" ref="index"/>
+    <file name="proposal_additonal covers-crop-u5248.png" crc="111993294" ref="index"/>
+    <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u5380.jpg" crc="220580324" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2-crop-u5284.jpg" crc="64830422" ref="index"/>
+    <file name="tshirt_2014 14th annual houston golf shirt social media post-crop-u5302.jpg" crc="199666039" ref="index"/>
+    <file name="tshirt_3574 topping out 06 27 2014 012-crop-u5311.jpg" crc="533123054" ref="index"/>
+    <file name="tshirt_3588 topping out luncheon 08 08 2014 006-crop-u5320.jpg" crc="3988297788" ref="index"/>
+    <file name="tshirt_3594 frost tower topping out 12 04 2014 010-crop-u5329.jpg" crc="4039717378" ref="index"/>
+    <file name="tshirt_houston komen 2014 mock up 2-crop-u5338.jpg" crc="278584163" ref="index"/>
+    <file name="u5670-4.png" crc="138862962" ref="index"/>
+    <file name="u5671-4.png" crc="138862962" ref="index"/>
   </folder>
-  <file name="index.html" crc="384317671" seo="true" mt="1446855041446" redirect="true"/>
+  <file name="index.html" crc="3819777737" seo="true" mt="1446860476907" redirect="true"/>
 </manifest>
