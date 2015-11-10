@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447149488442">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447197933824">
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="459060939" ref="index"/>
+    <file name="index.css" crc="4174261915" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -114,13 +114,13 @@
     <file name="website timeline.svg" crc="316823135" ref="index"/>
     <file name="website timeline_poster_.png" crc="3948016539" ref="index"/>
     <file name="u3900-4.png" crc="4216871793" ref="index"/>
-    <file name="u3904-4.png" crc="3933065251" ref="index"/>
+    <file name="u3904-4.png" crc="38202397" ref="index"/>
     <file name="u3902-4.png" crc="378962964" ref="index"/>
-    <file name="u3905-4.png" crc="3830339099" ref="index"/>
+    <file name="u3905-4.png" crc="3799192138" ref="index"/>
     <file name="line art_contact page.svg" crc="505274018" ref="index"/>
     <file name="line art_contact page_poster_.png" crc="130285347" ref="index"/>
     <file name="u3903-4.png" crc="3830378140" ref="index"/>
-    <file name="u3906-4.png" crc="4230674239" ref="index"/>
+    <file name="u3906-4.png" crc="3784046282" ref="index"/>
     <file name="diploma.svg" crc="527469966" ref="index"/>
     <file name="diploma_poster_.png" crc="3934297027" ref="index"/>
     <file name="u2563-4.png" crc="4092710115" ref="index"/>
@@ -265,7 +265,7 @@
     <file name="tshirt_3594 frost tower topping out 12 04 2014 010-crop-u5640.jpg" crc="4039717378" ref="index"/>
     <file name="tshirt_houston komen 2014 mock up 2-crop-u5649.jpg" crc="278584163" ref="index"/>
     <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2-crop-u5658.png" crc="3852392868" ref="index"/>
-    <file name="u3061-4.png" crc="4189582539" ref="index"/>
+    <file name="u3061-4.png" crc="4156237307" ref="index"/>
     <file name="u3066-4.png" crc="3841458098" ref="index"/>
     <file name="ad_2013 oklahoma mag mcg ad274x360.jpg" crc="3913818210" seo="true" ref="index"/>
     <file name="ad_naples botanical gardens ad may 2015 without border334x360.jpg" crc="12695791" seo="true" ref="index"/>
@@ -311,6 +311,8 @@
     <file name="tshirt_houston komen 2014 mock up 2-crop-u5338.jpg" crc="278584163" ref="index"/>
     <file name="dsc01620.jpg" crc="56705369" ref="index"/>
     <file name="u5693-4.png" crc="352826911" ref="index"/>
+    <file name="dahlgren chapel twitter ad.png" crc="201870998" seo="true" ref="index"/>
+    <file name="dahlgren chapel twitter ad84x76.png" crc="3852445559" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3906038678" seo="true" mt="1447149478714" redirect="true"/>
+  <file name="index.html" crc="4008946432" seo="true" mt="1447197923346" redirect="true"/>
 </manifest>
