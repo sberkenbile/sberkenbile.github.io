@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1446860486163">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447109126228">
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="4082449584" ref="index"/>
+    <file name="index.css" crc="513269188" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4108933322" seo="true" mt="1446851322000"/>
+    <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -151,40 +151,40 @@
     <file name="sized image for website home-u866-17-fs.png" crc="4271808838" ref="index"/>
     <file name="u2299-4.png" crc="3910217523" ref="index"/>
     <file name="u2298-4.png" crc="359903998" ref="index"/>
-    <file name="u3943.png" crc="3807529369" ref="index"/>
-    <file name="u3943-r.png" crc="3807529369" ref="index"/>
-    <file name="u3944.png" crc="195452931" ref="index"/>
-    <file name="u3944-r.png" crc="195452931" ref="index"/>
-    <file name="u3945.png" crc="488949010" ref="index"/>
-    <file name="u3945-r.png" crc="488949010" ref="index"/>
-    <file name="u3947.png" crc="4110148853" ref="index"/>
-    <file name="u3947-r.png" crc="4110148853" ref="index"/>
-    <file name="u3949.png" crc="3842577855" ref="index"/>
-    <file name="u3949-r.png" crc="3842577855" ref="index"/>
-    <file name="u3950.png" crc="448480930" ref="index"/>
-    <file name="u3950-r.png" crc="448480930" ref="index"/>
-    <file name="u3951.png" crc="501536526" ref="index"/>
-    <file name="u3951-r.png" crc="501536526" ref="index"/>
-    <file name="u3952.png" crc="3870755170" ref="index"/>
-    <file name="u3952-r.png" crc="3870755170" ref="index"/>
-    <file name="u2449.png" crc="4014965197" ref="index"/>
-    <file name="u2449-r.png" crc="4014965197" ref="index"/>
-    <file name="u2450.png" crc="228188321" ref="index"/>
-    <file name="u2450-r.png" crc="228188321" ref="index"/>
-    <file name="u2452.png" crc="255638129" ref="index"/>
-    <file name="u2452-r.png" crc="255638129" ref="index"/>
-    <file name="u2453.png" crc="396789610" ref="index"/>
-    <file name="u2453-r.png" crc="396789610" ref="index"/>
-    <file name="u2464.png" crc="334359888" ref="index"/>
-    <file name="u2464-r.png" crc="334359888" ref="index"/>
-    <file name="u2465.png" crc="378442842" ref="index"/>
-    <file name="u2465-r.png" crc="378442842" ref="index"/>
-    <file name="u2466.png" crc="515879673" ref="index"/>
-    <file name="u2466-r.png" crc="515879673" ref="index"/>
-    <file name="u2467.png" crc="508967066" ref="index"/>
-    <file name="u2467-r.png" crc="508967066" ref="index"/>
-    <file name="u2468.png" crc="515879673" ref="index"/>
-    <file name="u2468-r.png" crc="515879673" ref="index"/>
+    <file name="u3943.png" crc="191712448" ref="index"/>
+    <file name="u3943-r.png" crc="191712448" ref="index"/>
+    <file name="u3944.png" crc="4193315695" ref="index"/>
+    <file name="u3944-r.png" crc="4193315695" ref="index"/>
+    <file name="u3945.png" crc="4133602473" ref="index"/>
+    <file name="u3945-r.png" crc="4133602473" ref="index"/>
+    <file name="u3947.png" crc="3879018312" ref="index"/>
+    <file name="u3947-r.png" crc="3879018312" ref="index"/>
+    <file name="u3949.png" crc="3863754394" ref="index"/>
+    <file name="u3949-r.png" crc="3863754394" ref="index"/>
+    <file name="u3950.png" crc="4016632159" ref="index"/>
+    <file name="u3950-r.png" crc="4016632159" ref="index"/>
+    <file name="u3951.png" crc="4196400515" ref="index"/>
+    <file name="u3951-r.png" crc="4196400515" ref="index"/>
+    <file name="u3952.png" crc="3788190417" ref="index"/>
+    <file name="u3952-r.png" crc="3788190417" ref="index"/>
+    <file name="u2449.png" crc="4282629842" ref="index"/>
+    <file name="u2449-r.png" crc="4282629842" ref="index"/>
+    <file name="u2450.png" crc="4200030924" ref="index"/>
+    <file name="u2450-r.png" crc="4200030924" ref="index"/>
+    <file name="u2452.png" crc="4148660523" ref="index"/>
+    <file name="u2452-r.png" crc="4148660523" ref="index"/>
+    <file name="u2453.png" crc="9612840" ref="index"/>
+    <file name="u2453-r.png" crc="9612840" ref="index"/>
+    <file name="u2464.png" crc="3893625247" ref="index"/>
+    <file name="u2464-r.png" crc="3893625247" ref="index"/>
+    <file name="u2465.png" crc="389025307" ref="index"/>
+    <file name="u2465-r.png" crc="389025307" ref="index"/>
+    <file name="u2466.png" crc="3928633751" ref="index"/>
+    <file name="u2466-r.png" crc="3928633751" ref="index"/>
+    <file name="u2467.png" crc="3871320058" ref="index"/>
+    <file name="u2467-r.png" crc="3871320058" ref="index"/>
+    <file name="u2468.png" crc="3928633751" ref="index"/>
+    <file name="u2468-r.png" crc="3928633751" ref="index"/>
     <file name="gear icon.png" crc="4123352189" seo="true" ref="index"/>
     <file name="forward button.jpg" crc="4242225325" seo="true" ref="index"/>
     <file name="u572_states.png" crc="502307777" ref="index"/>
@@ -310,8 +310,6 @@
     <file name="tshirt_3588 topping out luncheon 08 08 2014 006-crop-u5320.jpg" crc="3988297788" ref="index"/>
     <file name="tshirt_3594 frost tower topping out 12 04 2014 010-crop-u5329.jpg" crc="4039717378" ref="index"/>
     <file name="tshirt_houston komen 2014 mock up 2-crop-u5338.jpg" crc="278584163" ref="index"/>
-    <file name="u5670-4.png" crc="138862962" ref="index"/>
-    <file name="u5671-4.png" crc="138862962" ref="index"/>
   </folder>
-  <file name="index.html" crc="3819777737" seo="true" mt="1446860476907" redirect="true"/>
+  <file name="index.html" crc="4160555491" seo="true" mt="1447109110919" redirect="true"/>
 </manifest>
