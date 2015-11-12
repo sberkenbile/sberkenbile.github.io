@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447235198451">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447297850236">
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="31018156" ref="index"/>
+    <file name="index.css" crc="42119003" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -81,8 +81,6 @@
     <file name="15neff hp 1 watches newsletter83x83.jpg" crc="508180353" seo="true" ref="index"/>
     <file name="17vans newsletter block 283x83.jpg" crc="4278629847" seo="true" ref="index"/>
     <file name="18fathers day83x83.jpg" crc="3891931978" seo="true" ref="index"/>
-    <file name="u3427-4.png" crc="4186497523" ref="index"/>
-    <file name="u3428-4.png" crc="346463157" ref="index"/>
     <file name="16spirithoods newsletter-crop-u3557.jpg" crc="246515623" ref="index"/>
     <file name="19benny gold homepage-crop-u3543.jpg" crc="3835292760" ref="index"/>
     <file name="20herschel homepage-crop-u3553.jpg" crc="521746245" ref="index"/>
@@ -222,20 +220,10 @@
     <file name="tshirt_2014 14th annual houston golf shirt social media post.jpg" crc="3798002601" seo="true" ref="index"/>
     <file name="ad_ dc b-g club.jpg" crc="4069368214" seo="true" ref="index"/>
     <file name="ad_2013 oklahoma mag mcg ad.jpg" crc="3878033349" seo="true" ref="index"/>
-    <file name="ad_naples botanical gardens ad may 2015 without border.jpg" crc="4182258605" seo="true" ref="index"/>
-    <file name="graphic_build your career postcard january 2015.png" crc="3967206863" seo="true" ref="index"/>
     <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01.jpg" crc="232067440" seo="true" ref="index"/>
     <file name="graphic_my mentoring program.jpg" crc="3904152635" seo="true" ref="index"/>
-    <file name="graphic_repeat client graphic.png" crc="4170532947" seo="true" ref="index"/>
-    <file name="graphic_rooney insurance banner graphic.png" crc="373454203" seo="true" ref="index"/>
-    <file name="graphic_specialty contractor awards luncheon.jpg" crc="293122837" seo="true" ref="index"/>
     <file name="misc art_falcons placemat_page_1.jpg" crc="214688149" seo="true" ref="index"/>
     <file name="misc art_orlando city soccer placemat.jpg" crc="4217785286" seo="true" ref="index"/>
-    <file name="misc art_smps 2014 postcard vertical.png" crc="330068922" seo="true" ref="index"/>
-    <file name="proposal_additonal covers.png" crc="316989508" seo="true" ref="index"/>
-    <file name="proposal_orland city soccer.png" crc="4247647760" seo="true" ref="index"/>
-    <file name="proposal_ou stadium.png" crc="4290937396" seo="true" ref="index"/>
-    <file name="proposal_raymond james stadium.png" crc="188067292" seo="true" ref="index"/>
     <file name="tshirt_3574 topping out 06 27 2014 012.jpg" crc="268871520" seo="true" ref="index"/>
     <file name="tshirt_3588 topping out luncheon 08 08 2014 006.jpg" crc="327982858" seo="true" ref="index"/>
     <file name="tshirt_3594 frost tower topping out 12 04 2014 010.jpg" crc="100115080" seo="true" ref="index"/>
@@ -243,37 +231,9 @@
     <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2-crop-u5460.jpg" crc="527247116" ref="index"/>
     <file name="ad_ dc b-g club-crop-u5478.jpg" crc="161288052" ref="index"/>
     <file name="ad_2013 oklahoma mag mcg ad-crop-u5487.jpg" crc="4052728094" ref="index"/>
-    <file name="ad_naples botanical gardens ad may 2015 without border83x90.jpg" crc="160711320" seo="true" ref="index"/>
-    <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01102x76.jpg" crc="3927544004" seo="true" ref="index"/>
     <file name="graphic_my mentoring program-crop-u5523.jpg" crc="3820132615" ref="index"/>
     <file name="u3061-4.png" crc="4085098829" ref="index"/>
     <file name="u3066-4.png" crc="3875151806" ref="index"/>
-    <file name="ad_2013 oklahoma mag mcg ad274x360.jpg" crc="3913818210" seo="true" ref="index"/>
-    <file name="ad_ dc b-g club237x360.jpg" crc="4132922197" seo="true" ref="index"/>
-    <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01480x360.jpg" crc="4249130717" seo="true" ref="index"/>
-    <file name="graphic_my mentoring program279x360.jpg" crc="4170861860" seo="true" ref="index"/>
-    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2480x259.jpg" crc="169538738" seo="true" ref="index"/>
-    <file name="ad_2013 oklahoma mag mcg ad-crop-u5149.jpg" crc="4060226151" ref="index"/>
-    <file name="ad_ dc b-g club-crop-u5140.jpg" crc="5184665" ref="index"/>
-    <file name="graphic_build your career postcard january 2015-crop-u5167.png" crc="209321085" ref="index"/>
-    <file name="graphic_my mentoring program-crop-u5185.jpg" crc="3872903235" ref="index"/>
-    <file name="graphic_repeat client graphic-crop-u5194.png" crc="165911768" ref="index"/>
-    <file name="graphic_rooney insurance banner graphic-crop-u5203.png" crc="184360306" ref="index"/>
-    <file name="graphic_specialty contractor awards luncheon-crop-u5212.jpg" crc="4183618592" ref="index"/>
-    <file name="misc art_falcons placemat_page_1-crop-u5221.jpg" crc="251809181" ref="index"/>
-    <file name="misc art_orlando city soccer placemat-crop-u5230.jpg" crc="4265505997" ref="index"/>
-    <file name="proposal_ou stadium-crop-u5266.png" crc="128552418" ref="index"/>
-    <file name="misc art_smps 2014 postcard vertical-crop-u5239.png" crc="206348852" ref="index"/>
-    <file name="proposal_orland city soccer-crop-u5257.png" crc="199490706" ref="index"/>
-    <file name="proposal_raymond james stadium-crop-u5275.png" crc="4258777785" ref="index"/>
-    <file name="proposal_additonal covers-crop-u5248.png" crc="64112994" ref="index"/>
-    <file name="ad_ dahlgren chapel it-s a win twitter banner-crop-u5380.jpg" crc="220580324" ref="index"/>
-    <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2-crop-u5284.jpg" crc="64830422" ref="index"/>
-    <file name="tshirt_2014 14th annual houston golf shirt social media post-crop-u5302.jpg" crc="199666039" ref="index"/>
-    <file name="tshirt_3574 topping out 06 27 2014 012-crop-u5311.jpg" crc="3904999502" ref="index"/>
-    <file name="tshirt_3588 topping out luncheon 08 08 2014 006-crop-u5320.jpg" crc="3813528938" ref="index"/>
-    <file name="tshirt_3594 frost tower topping out 12 04 2014 010-crop-u5329.jpg" crc="211347716" ref="index"/>
-    <file name="tshirt_houston komen 2014 mock up 2-crop-u5338.jpg" crc="243703024" ref="index"/>
     <file name="dsc01620.jpg" crc="56705369" ref="index"/>
     <file name="u5693-4.png" crc="390387101" ref="index"/>
     <file name="recruitment postcard.png" crc="4233507040" seo="true" ref="index"/>
@@ -318,14 +278,79 @@
     <file name="tshirt_3574 topping out 06 27 2014 012-crop-u6581.jpg" crc="48446140" ref="index"/>
     <file name="tshirt_3588 topping out luncheon 08 08 2014 006-crop-u6590.jpg" crc="4085680540" ref="index"/>
     <file name="tshirt_3594 frost tower topping out 12 04 2014 010-crop-u6599.jpg" crc="486684906" ref="index"/>
-    <file name="misc art_falcons placemat_page_12.jpg" crc="21915348" seo="true" ref="index"/>
-    <file name="misc art_orlando city soccer placemat2.jpg" crc="4121352878" seo="true" ref="index"/>
-    <file name="tshirt_2014 14th annual houston golf shirt social media post2.jpg" crc="3798002601" seo="true" ref="index"/>
-    <file name="tshirt_3574 topping out 06 27 2014 0122.jpg" crc="4177065356" seo="true" ref="index"/>
-    <file name="tshirt_3588 topping out luncheon 08 08 2014 0062.jpg" crc="458884768" seo="true" ref="index"/>
-    <file name="tshirt_3594 frost tower topping out 12 04 2014 0102.jpg" crc="104510520" seo="true" ref="index"/>
-    <file name="tshirt_houston komen 2014 mock up 22.jpg" crc="4243005370" seo="true" ref="index"/>
     <file name="u5759-4.png" crc="3910217523" ref="index"/>
+    <file name="bag and logo designs.png" crc="4094399013" seo="true" ref="index"/>
+    <file name="newbury tshirt design.png" crc="73035134" seo="true" ref="index"/>
+    <file name="19benny gold homepage2.jpg" crc="3859482413" seo="true" ref="index"/>
+    <file name="23memorial day homepage2.jpg" crc="4176700912" seo="true" ref="index"/>
+    <file name="12abbey dawn pretty please newsletter block.jpg" crc="396671599" seo="true" ref="index"/>
+    <file name="18fathers day2.jpg" crc="214142580" seo="true" ref="index"/>
+    <file name="17vans newsletter block 22.jpg" crc="4096633949" seo="true" ref="index"/>
+    <file name="15neff hp 1 watches newsletter2.jpg" crc="4070956733" seo="true" ref="index"/>
+    <file name="13iron fist newsletter 8192.jpg" crc="13791324" seo="true" ref="index"/>
+    <file name="12 4th of july newsletter.jpg" crc="189584831" seo="true" ref="index"/>
+    <file name="28ray ban brand banner2.jpg" crc="71835141" seo="true" ref="index"/>
+    <file name="obey x keith harring ads.png" crc="144082137" seo="true" ref="index"/>
+    <file name="rupauls dragrace ads.png" crc="4199018907" seo="true" ref="index"/>
+    <file name="huf ads.png" crc="53864688" seo="true" ref="index"/>
+    <file name="wesc ads copy.png" crc="3939001929" seo="true" ref="index"/>
+    <file name="spirithood ads.png" crc="132215561" seo="true" ref="index"/>
+    <file name="joyrich ads.png" crc="515524143" seo="true" ref="index"/>
+    <file name="herschel backpack ads copy.png" crc="4134606225" seo="true" ref="index"/>
+    <file name="560877_349222481787998_1837021794_n.jpg" crc="3849804233" seo="true" ref="index"/>
+    <file name="576086_462638410427618_1682100702_n.jpg" crc="149223366" seo="true" ref="index"/>
+    <file name="480723_477328155625310_1549909712_n.jpg" crc="4097699033" seo="true" ref="index"/>
+    <file name="483981_345071415536438_906327208_n.jpg" crc="3938271843" seo="true" ref="index"/>
+    <file name="523469_355617311148515_1896545479_n.jpg" crc="329854032" seo="true" ref="index"/>
+    <file name="432241_377292375628889_1484538948_n.jpg" crc="393482897" seo="true" ref="index"/>
+    <file name="526741_358586990851547_1216048376_n.jpg" crc="3889096089" seo="true" ref="index"/>
+    <file name="578270_377711915605721_58350769_n.jpg" crc="386687142" seo="true" ref="index"/>
+    <file name="579018_412389292119197_1390648129_n.jpg" crc="4072763143" seo="true" ref="index"/>
+    <file name="578783_424985840878328_1634662559_n.jpg" crc="4770459" seo="true" ref="index"/>
+    <file name="555835_408007109242868_1582297143_n copy.jpg" crc="176147157" seo="true" ref="index"/>
+    <file name="295487_416149288428650_1995923371_n.jpg" crc="3907845329" seo="true" ref="index"/>
+    <file name="img_0713.jpg" crc="532401681" seo="true" ref="index"/>
+    <file name="380742_401234923234634_303115157_n.jpg" crc="3965512071" seo="true" ref="index"/>
+    <file name="467582_393748173983309_1282794282_o.jpg" crc="3904339204" seo="true" ref="index"/>
+    <file name="293120_451600251531434_384329582_n.jpg" crc="4143840279" seo="true" ref="index"/>
+    <file name="564574_382865425071584_1190402273_n.jpg" crc="3884211907" seo="true" ref="index"/>
+    <file name="bag and logo designs-crop-u8293.png" crc="3826396523" ref="index"/>
+    <file name="newbury tshirt design-crop-u8534.png" crc="149187" ref="index"/>
+    <file name="19benny gold homepage-crop-u8050.jpg" crc="3769194885" ref="index"/>
+    <file name="23memorial day homepage-crop-u8113.jpg" crc="309265463" ref="index"/>
+    <file name="12abbey dawn pretty please newsletter block105x105.jpg" crc="268373767" seo="true" ref="index"/>
+    <file name="18fathers day105x105.jpg" crc="212753847" seo="true" ref="index"/>
+    <file name="17vans newsletter block 2105x105.jpg" crc="3531939" seo="true" ref="index"/>
+    <file name="15neff hp 1 watches newsletter105x105.jpg" crc="4217116832" seo="true" ref="index"/>
+    <file name="13iron fist newsletter 819105x105.jpg" crc="4114621182" seo="true" ref="index"/>
+    <file name="12 4th of july newsletter105x105.jpg" crc="4182541573" seo="true" ref="index"/>
+    <file name="28ray ban brand banner-crop-u8122.jpg" crc="379485586" ref="index"/>
+    <file name="obey x keith harring ads-crop-u8347.png" crc="3919519855" ref="index"/>
+    <file name="rupauls dragrace ads-crop-u8356.png" crc="491458584" ref="index"/>
+    <file name="huf ads-crop-u8311.png" crc="78596299" ref="index"/>
+    <file name="wesc ads copy-crop-u8374.png" crc="314647880" ref="index"/>
+    <file name="spirithood ads108x96.png" crc="297134363" seo="true" ref="index"/>
+    <file name="joyrich ads105x97.png" crc="4221869713" seo="true" ref="index"/>
+    <file name="herschel backpack ads copy-crop-u8525.png" crc="4011320384" ref="index"/>
+    <file name="560877_349222481787998_1837021794_n-crop-u8239.jpg" crc="3837729770" ref="index"/>
+    <file name="576086_462638410427618_1682100702_n111x96.jpg" crc="282966905" seo="true" ref="index"/>
+    <file name="480723_477328155625310_1549909712_n-crop-u8176.jpg" crc="4231673465" ref="index"/>
+    <file name="483981_345071415536438_906327208_n128x96.jpg" crc="76871799" seo="true" ref="index"/>
+    <file name="523469_355617311148515_1896545479_n-crop-u8194.jpg" crc="323530699" ref="index"/>
+    <file name="432241_377292375628889_1484538948_n110x96.jpg" crc="148205097" seo="true" ref="index"/>
+    <file name="526741_358586990851547_1216048376_n-crop-u8203.jpg" crc="4091661097" ref="index"/>
+    <file name="578270_377711915605721_58350769_n-crop-u8266.jpg" crc="3825138918" ref="index"/>
+    <file name="579018_412389292119197_1390648129_n-crop-u8284.jpg" crc="3942278511" ref="index"/>
+    <file name="578783_424985840878328_1634662559_n105x105.jpg" crc="29805876" seo="true" ref="index"/>
+    <file name="555835_408007109242868_1582297143_n copy-crop-u8230.jpg" crc="4185461968" ref="index"/>
+    <file name="295487_416149288428650_1995923371_n105x105.jpg" crc="271570615" seo="true" ref="index"/>
+    <file name="img_0713-crop-u8320.jpg" crc="464671732" ref="index"/>
+    <file name="380742_401234923234634_303115157_n-crop-u8149.jpg" crc="531159870" ref="index"/>
+    <file name="467582_393748173983309_1282794282_o-crop-u8167.jpg" crc="4217464806" ref="index"/>
+    <file name="293120_451600251531434_384329582_n-crop-u8131.jpg" crc="110285777" ref="index"/>
+    <file name="564574_382865425071584_1190402273_n-crop-u8248.jpg" crc="3798784745" ref="index"/>
+    <file name="u7005-4.png" crc="4085098829" ref="index"/>
+    <file name="u7009-4.png" crc="3875151806" ref="index"/>
   </folder>
-  <file name="index.html" crc="3808326537" seo="true" mt="1447235152321" redirect="true"/>
+  <file name="index.html" crc="4211801549" seo="true" mt="1447297837865" redirect="true"/>
 </manifest>
