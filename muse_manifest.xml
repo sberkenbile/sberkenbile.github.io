@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447303014409">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447312344236">
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="211671472" ref="index"/>
+    <file name="index.css" crc="4015826129" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -167,7 +167,7 @@
     <file name="u3061-4.png" crc="4085098829" ref="index"/>
     <file name="u3066-4.png" crc="3875151806" ref="index"/>
     <file name="dsc01620.jpg" crc="56705369" ref="index"/>
-    <file name="u5693-4.png" crc="390387101" ref="index"/>
+    <file name="u5693-4.png" crc="299076365" ref="index"/>
     <file name="recruitment postcard.png" crc="4233507040" seo="true" ref="index"/>
     <file name="smps postcard.png" crc="249168098" seo="true" ref="index"/>
     <file name="naples botanical gardens ad.png" crc="100839571" seo="true" ref="index"/>
@@ -300,30 +300,22 @@
     <file name="win a wii poster-crop-u9543.png" crc="359789990" ref="index"/>
     <file name="u8880-4.png" crc="4085098829" ref="index"/>
     <file name="u8879-4.png" crc="3875151806" ref="index"/>
-    <file name="bag and logo designs-crop-u9185.png" crc="3826396523" ref="index"/>
-    <file name="newbury tshirt design-crop-u9223.png" crc="149187" ref="index"/>
-    <file name="19benny gold homepage-crop-u9205.jpg" crc="3769194885" ref="index"/>
-    <file name="23memorial day homepage-crop-u9235.jpg" crc="309265463" ref="index"/>
-    <file name="28ray ban brand banner-crop-u9233.jpg" crc="379485586" ref="index"/>
-    <file name="obey x keith harring ads-crop-u9207.png" crc="3919519855" ref="index"/>
-    <file name="rupauls dragrace ads-crop-u9229.png" crc="491458584" ref="index"/>
-    <file name="huf ads-crop-u9243.png" crc="78596299" ref="index"/>
-    <file name="wesc ads copy-crop-u9209.png" crc="314647880" ref="index"/>
-    <file name="herschel backpack ads copy-crop-u9213.png" crc="4011320384" ref="index"/>
-    <file name="560877_349222481787998_1837021794_n-crop-u9217.jpg" crc="3837729770" ref="index"/>
-    <file name="480723_477328155625310_1549909712_n-crop-u9181.jpg" crc="4231673465" ref="index"/>
-    <file name="523469_355617311148515_1896545479_n-crop-u9203.jpg" crc="323530699" ref="index"/>
-    <file name="526741_358586990851547_1216048376_n-crop-u9195.jpg" crc="4091661097" ref="index"/>
-    <file name="578270_377711915605721_58350769_n-crop-u9225.jpg" crc="3825138918" ref="index"/>
-    <file name="579018_412389292119197_1390648129_n-crop-u9245.jpg" crc="3942278511" ref="index"/>
-    <file name="555835_408007109242868_1582297143_n copy-crop-u9247.jpg" crc="4185461968" ref="index"/>
-    <file name="img_0713-crop-u9215.jpg" crc="464671732" ref="index"/>
-    <file name="380742_401234923234634_303115157_n-crop-u9187.jpg" crc="531159870" ref="index"/>
-    <file name="467582_393748173983309_1282794282_o-crop-u9221.jpg" crc="4217464806" ref="index"/>
-    <file name="293120_451600251531434_384329582_n-crop-u9197.jpg" crc="110285777" ref="index"/>
-    <file name="564574_382865425071584_1190402273_n-crop-u9191.jpg" crc="3798784745" ref="index"/>
     <file name="u9139-4.png" crc="4085098829" ref="index"/>
     <file name="u9138-4.png" crc="3875151806" ref="index"/>
+    <file name="mbdc .png" crc="4287560124" seo="true" ref="index"/>
+    <file name="factory farming call to action.png" crc="4213839431" seo="true" ref="index"/>
+    <file name="organi baby.png" crc="293353756" seo="true" ref="index"/>
+    <file name="cafe 100.png" crc="515585134" seo="true" ref="index"/>
+    <file name="edging newsletter.png" crc="66176301" seo="true" ref="index"/>
+    <file name="sweet tea apparel.png" crc="177525445" seo="true" ref="index"/>
+    <file name="wormhole magazine.png" crc="3941329529" seo="true" ref="index"/>
+    <file name="mbdc 120x96.png" crc="4014463851" seo="true" ref="index"/>
+    <file name="factory farming call to action121x96.png" crc="3954463584" seo="true" ref="index"/>
+    <file name="organi baby131x96.png" crc="227766947" seo="true" ref="index"/>
+    <file name="cafe 100-crop-u9781.png" crc="4172199568" ref="index"/>
+    <file name="edging newsletter-crop-u9683.png" crc="4131665180" ref="index"/>
+    <file name="sweet tea apparel-crop-u9632.png" crc="267317861" ref="index"/>
+    <file name="wormhole magazine-crop-u9641.png" crc="243456232" ref="index"/>
   </folder>
-  <file name="index.html" crc="405332086" seo="true" mt="1447302997358" redirect="true"/>
+  <file name="index.html" crc="3823639948" seo="true" mt="1447312332312" redirect="true"/>
 </manifest>
