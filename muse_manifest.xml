@@ -1,17 +1,23 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447312344236">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447363387752">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4216729251" seo="true" mt="1447358677625" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="4015826129" ref="index"/>
+    <file name="index.css" crc="387409837" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
-    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:phone>index"/>
+    <file name="museutils.js" crc="275725342" ref="index:phone>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:phone>index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="webpro.js" crc="3883484123" ref="index"/>
     <file name="musewpslideshow.js" crc="360574455" ref="index"/>
@@ -317,5 +323,5 @@
     <file name="sweet tea apparel-crop-u9632.png" crc="267317861" ref="index"/>
     <file name="wormhole magazine-crop-u9641.png" crc="243456232" ref="index"/>
   </folder>
-  <file name="index.html" crc="3823639948" seo="true" mt="1447312332312" redirect="true"/>
+  <file name="index.html" crc="4283644958" seo="true" mt="1447363358216" redirect="true"/>
 </manifest>

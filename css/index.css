@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #5CA4D1;
+	color: #000017;
+	background-color: #1767AD;
 }
 
 #page
@@ -3987,9 +3987,10 @@
 	height: 14px;
 	width: 233px;
 	vertical-align: top;
-	position: fixed;
-	top: 3771px;
-	left: -14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1046px;
+	left: 87px;
 	background: url("../images/u3943.png") no-repeat 0px 0px;
 }
 
@@ -4004,9 +4005,10 @@
 	height: 14px;
 	width: 233px;
 	vertical-align: top;
-	position: fixed;
-	top: 3798px;
-	left: -14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1073px;
+	left: 87px;
 	background: url("../images/u3944.png") no-repeat 0px 0px;
 }
 
@@ -4021,9 +4023,10 @@
 	height: 14px;
 	width: 253px;
 	vertical-align: top;
-	position: fixed;
-	top: 3859px;
-	left: -35px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1134px;
+	left: 66px;
 	background: url("../images/u3945.png") no-repeat 0px 0px;
 }
 
@@ -4038,9 +4041,10 @@
 	height: 14px;
 	width: 273px;
 	vertical-align: top;
-	position: fixed;
-	top: 3891px;
-	left: -54px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1166px;
+	left: 47px;
 	background: url("../images/u3947.png") no-repeat 0px 0px;
 }
 
@@ -4055,9 +4059,10 @@
 	height: 27px;
 	width: 233px;
 	vertical-align: top;
-	position: fixed;
-	top: 3966px;
-	left: -16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1241px;
+	left: 85px;
 	background: url("../images/u3949.png") no-repeat 0px 0px;
 }
 
@@ -4072,9 +4077,10 @@
 	height: 26px;
 	width: 279px;
 	vertical-align: top;
-	position: fixed;
-	top: 4056px;
-	left: -64px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1331px;
+	left: 37px;
 	background: url("../images/u3950.png") no-repeat 0px 0px;
 }
 
@@ -4089,9 +4095,10 @@
 	height: 14px;
 	width: 263px;
 	vertical-align: top;
-	position: fixed;
-	top: 4125px;
-	left: -44px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1400px;
+	left: 57px;
 	background: url("../images/u3951.png") no-repeat 0px 0px;
 }
 
@@ -4106,9 +4113,10 @@
 	height: 13px;
 	width: 233px;
 	vertical-align: top;
-	position: fixed;
-	top: 4152px;
-	left: -14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1427px;
+	left: 87px;
 	background: url("../images/u3952.png") no-repeat 0px 0px;
 }
 
@@ -4123,9 +4131,10 @@
 	height: 39px;
 	width: 251px;
 	vertical-align: top;
-	position: fixed;
-	top: 3873px;
-	left: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1148px;
+	left: 398px;
 	background: url("../images/u2449.png") no-repeat 0px 0px;
 }
 
@@ -4140,9 +4149,10 @@
 	height: 13px;
 	width: 286px;
 	vertical-align: top;
-	position: fixed;
-	top: 4120px;
-	left: 299px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1395px;
+	left: 399px;
 	background: url("../images/u2450.png") no-repeat 0px 0px;
 }
 
@@ -4157,9 +4167,10 @@
 	height: 13px;
 	width: 211px;
 	vertical-align: top;
-	position: fixed;
-	top: 4142px;
-	left: 298px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1417px;
+	left: 399px;
 	background: url("../images/u2452.png") no-repeat 0px 0px;
 }
 
@@ -4174,9 +4185,10 @@
 	height: 25px;
 	width: 276px;
 	vertical-align: top;
-	position: fixed;
-	top: 4212px;
-	left: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1487px;
+	left: 397px;
 	background: url("../images/u2453.png") no-repeat 0px 0px;
 }
 
@@ -4191,9 +4203,10 @@
 	height: 13px;
 	width: 344px;
 	vertical-align: top;
-	position: fixed;
-	top: 4164px;
-	left: 298px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1439px;
+	left: 398px;
 	background: url("../images/u2464.png") no-repeat 0px 0px;
 }
 
@@ -4208,9 +4221,10 @@
 	height: 13px;
 	width: 212px;
 	vertical-align: top;
-	position: fixed;
-	top: 4241px;
-	left: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1516px;
+	left: 398px;
 	background: url("../images/u2465.png") no-repeat 0px 0px;
 }
 
@@ -4225,9 +4239,10 @@
 	height: 13px;
 	width: 212px;
 	vertical-align: top;
-	position: fixed;
-	top: 4300px;
-	left: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1575px;
+	left: 398px;
 	background: url("../images/u2466.png") no-repeat 0px 0px;
 }
 
@@ -4242,9 +4257,10 @@
 	height: 13px;
 	width: 211px;
 	vertical-align: top;
-	position: fixed;
-	top: 4326px;
-	left: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1601px;
+	left: 397px;
 	background: url("../images/u2467.png") no-repeat 0px 0px;
 }
 
@@ -4259,9 +4275,10 @@
 	height: 13px;
 	width: 212px;
 	vertical-align: top;
-	position: fixed;
-	top: 4382px;
-	left: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1657px;
+	left: 398px;
 	background: url("../images/u2468.png") no-repeat 0px 0px;
 }
 
