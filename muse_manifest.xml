@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447373574779">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447375192354">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -321,7 +321,7 @@
     <file name="edging newsletter-crop-u9683.png" crc="4131665180" ref="index"/>
     <file name="sweet tea apparel-crop-u9632.png" crc="267317861" ref="index"/>
     <file name="wormhole magazine-crop-u9641.png" crc="243456232" ref="index"/>
-    <file name="website background.jpg" crc="477624764" ref="index"/>
+    <file name="website background.jpg" crc="4294227918" ref="index"/>
   </folder>
-  <file name="index.html" crc="523955114" seo="true" mt="1447373549914" redirect="true"/>
+  <file name="index.html" crc="523955114" seo="true" mt="1447375145250" redirect="true"/>
 </manifest>
