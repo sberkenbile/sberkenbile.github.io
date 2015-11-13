@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447363387752">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447373574779">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="387409837" ref="index"/>
+    <file name="index.css" crc="3932773421" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -30,7 +30,6 @@
     <file name="form-u834.php" crc="10119927" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="dsc01577.jpg" crc="328749157" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u567_states.png" crc="479608537" ref="index"/>
     <file name="u567_states-r.png" crc="479608537" ref="index"/>
@@ -322,6 +321,7 @@
     <file name="edging newsletter-crop-u9683.png" crc="4131665180" ref="index"/>
     <file name="sweet tea apparel-crop-u9632.png" crc="267317861" ref="index"/>
     <file name="wormhole magazine-crop-u9641.png" crc="243456232" ref="index"/>
+    <file name="website background.jpg" crc="477624764" ref="index"/>
   </folder>
-  <file name="index.html" crc="4283644958" seo="true" mt="1447363358216" redirect="true"/>
+  <file name="index.html" crc="523955114" seo="true" mt="1447373549914" redirect="true"/>
 </manifest>
