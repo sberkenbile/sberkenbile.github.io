@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447375192354">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447548844111">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="3932773421" ref="index"/>
+    <file name="index.css" crc="176900373" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -24,10 +24,6 @@
     <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
     <file name="touchswipe.js" crc="4218319045" ref="index"/>
     <file name="musewpdisclosure.js" crc="404074387" ref="index"/>
-    <file name="form_check.php" crc="3932029206" ref="index"/>
-    <file name="form_throttle.php" crc="314685628" ref="index"/>
-    <file name="form_process.php" crc="401030677" ref="index"/>
-    <file name="form-u834.php" crc="10119927" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -47,18 +43,18 @@
     <file name="download168_poster_.png" crc="4216756398" ref="index"/>
     <file name="eye110.svg" crc="356990448" ref="index"/>
     <file name="eye110_poster_.png" crc="4201745221" ref="index"/>
-    <file name="u1337.png" crc="491420010" ref="index"/>
-    <file name="u1337-r.png" crc="533955576" ref="index"/>
-    <file name="u1337-a.png" crc="3822679755" ref="index"/>
-    <file name="u1340.png" crc="3766081917" ref="index"/>
-    <file name="u1340-r.png" crc="63971305" ref="index"/>
-    <file name="u1340-a.png" crc="487502565" ref="index"/>
-    <file name="u1388.png" crc="64964548" ref="index"/>
-    <file name="u1388-r.png" crc="99970824" ref="index"/>
-    <file name="u1388-a.png" crc="103989532" ref="index"/>
-    <file name="u1385.png" crc="341002834" ref="index"/>
-    <file name="u1385-r.png" crc="3758804907" ref="index"/>
-    <file name="u1385-a.png" crc="3998161304" ref="index"/>
+    <file name="u1337.png" crc="158126756" ref="index"/>
+    <file name="u1337-r.png" crc="3807558278" ref="index"/>
+    <file name="u1337-a.png" crc="441735868" ref="index"/>
+    <file name="u1340.png" crc="3953893318" ref="index"/>
+    <file name="u1340-r.png" crc="4097390016" ref="index"/>
+    <file name="u1340-a.png" crc="3812605485" ref="index"/>
+    <file name="u1388.png" crc="3868751628" ref="index"/>
+    <file name="u1388-r.png" crc="3784294169" ref="index"/>
+    <file name="u1388-a.png" crc="4073300084" ref="index"/>
+    <file name="u1385.png" crc="41957043" ref="index"/>
+    <file name="u1385-r.png" crc="3805972300" ref="index"/>
+    <file name="u1385-a.png" crc="3887445511" ref="index"/>
     <file name="line art.svg" crc="3916567828" ref="index"/>
     <file name="line art_poster_.png" crc="182186953" ref="index"/>
     <file name="ad_ dahlgren chapel it-s a win twitter banner.jpg" crc="9269781" seo="true" ref="index"/>
@@ -105,10 +101,6 @@
     <file name="behance logo_poster_.png" crc="4220699327" ref="index"/>
     <file name="linkeding.svg" crc="368440971" ref="index"/>
     <file name="linkeding_poster_.png" crc="3770376193" ref="index"/>
-    <file name="sized image for website home-u866-17.png" crc="359323149" ref="index"/>
-    <file name="sized image for website home-u866-17-r.png" crc="118665983" ref="index"/>
-    <file name="sized image for website home-u866-17-m.png" crc="4012563290" ref="index"/>
-    <file name="sized image for website home-u866-17-fs.png" crc="4271808838" ref="index"/>
     <file name="u2298-4.png" crc="359903998" ref="index"/>
     <file name="u3943.png" crc="191712448" ref="index"/>
     <file name="u3943-r.png" crc="191712448" ref="index"/>
@@ -173,14 +165,13 @@
     <file name="u3066-4.png" crc="3875151806" ref="index"/>
     <file name="dsc01620.jpg" crc="56705369" ref="index"/>
     <file name="u5693-4.png" crc="299076365" ref="index"/>
-    <file name="recruitment postcard.png" crc="4233507040" seo="true" ref="index"/>
+    <file name="recruitment postcard.png" crc="4037636947" seo="true" ref="index"/>
     <file name="smps postcard.png" crc="249168098" seo="true" ref="index"/>
     <file name="naples botanical gardens ad.png" crc="100839571" seo="true" ref="index"/>
     <file name="graphic_specialty contractor awards luncheon copy.jpg" crc="4031787557" seo="true" ref="index"/>
     <file name="graphics_gateway logos copy.jpg" crc="203478673" seo="true" ref="index"/>
     <file name="green building brochure.png" crc="3899724355" seo="true" ref="index"/>
     <file name="road and bridge brochure.png" crc="317967319" seo="true" ref="index"/>
-    <file name="orlando soccer proposal.png" crc="126959284" seo="true" ref="index"/>
     <file name="buccaneers proposal.png" crc="248155899" seo="true" ref="index"/>
     <file name="ou proposal.png" crc="279410740" seo="true" ref="index"/>
     <file name="osu spears proposal.png" crc="4193927172" seo="true" ref="index"/>
@@ -190,7 +181,7 @@
     <file name="red bar new layout falcons banner.jpg" crc="3895001396" seo="true" ref="index"/>
     <file name="falcons banner presentation.jpg" crc="504581176" seo="true" ref="index"/>
     <file name="fairfax public safety headquarters topping out shirt june 2015 - alternate layout_mock up.jpg" crc="262097705" seo="true" ref="index"/>
-    <file name="recruitment postcard107x96.png" crc="335718783" seo="true" ref="index"/>
+    <file name="recruitment postcard107x96.png" crc="4244564425" seo="true" ref="index"/>
     <file name="smps postcard-crop-u6179.png" crc="296986886" ref="index"/>
     <file name="naples botanical gardens ad106x96.png" crc="3857177904" seo="true" ref="index"/>
     <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01128x97.jpg" crc="3898948373" seo="true" ref="index"/>
@@ -198,7 +189,6 @@
     <file name="graphics_gateway logos copy125x96.jpg" crc="224500530" seo="true" ref="index"/>
     <file name="green building brochure-crop-u6137.png" crc="514003526" ref="index"/>
     <file name="road and bridge brochure-crop-u6665.png" crc="380583786" ref="index"/>
-    <file name="orlando soccer proposal-crop-u6455.png" crc="3796772418" ref="index"/>
     <file name="buccaneers proposal-crop-u6437.png" crc="3882451072" ref="index"/>
     <file name="ou proposal-crop-u6391.png" crc="3949487188" ref="index"/>
     <file name="osu spears proposal-crop-u6464.png" crc="94435127" ref="index"/>
@@ -322,6 +312,8 @@
     <file name="sweet tea apparel-crop-u9632.png" crc="267317861" ref="index"/>
     <file name="wormhole magazine-crop-u9641.png" crc="243456232" ref="index"/>
     <file name="website background.jpg" crc="4294227918" ref="index"/>
+    <file name="orlando soccer proposal.jpg" crc="287180473" seo="true" ref="index"/>
+    <file name="orlando soccer proposal-crop-u9831.jpg" crc="3988212166" ref="index"/>
   </folder>
-  <file name="index.html" crc="523955114" seo="true" mt="1447375145250" redirect="true"/>
+  <file name="index.html" crc="404697262" seo="true" mt="1447548837628" redirect="true"/>
 </manifest>
