@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447789433764">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447790826997">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="75061272" ref="index"/>
+    <file name="index.css" crc="4215775934" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -303,17 +303,17 @@
     <file name="u9970_states-m.png" crc="232695979" ref="index"/>
     <file name="u9971_states.png" crc="479608537" ref="index"/>
     <file name="u9971_states-m.png" crc="4223864573" ref="index"/>
-    <file name="u3904.png" crc="140051938" ref="index"/>
+    <file name="u3904.png" crc="7121430" ref="index"/>
     <file name="u3904-r.png" crc="4139130120" ref="index"/>
-    <file name="u3905.png" crc="273806389" ref="index"/>
+    <file name="u3905.png" crc="4019834960" ref="index"/>
     <file name="u3905-r.png" crc="3993588804" ref="index"/>
     <file name="computer-screen5.svg" crc="3814277609" ref="index"/>
     <file name="computer-screen5_poster_.png" crc="401262274" ref="index"/>
-    <file name="u3906.png" crc="368342815" ref="index"/>
+    <file name="u3906.png" crc="4083036878" ref="index"/>
     <file name="u3906-r.png" crc="402171768" ref="index"/>
     <file name="graphic design icon.png" crc="253719289" seo="true" ref="index"/>
     <file name="branding icon.png" crc="131627549" seo="true" ref="index"/>
     <file name="marketing icon.png" crc="4072720813" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4124128284" seo="true" mt="1447789417424" redirect="true"/>
+  <file name="index.html" crc="405401136" seo="true" mt="1447790811916" redirect="true"/>
 </manifest>
