@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447548844111">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447788877146">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4216729251" seo="true" mt="1447358677625" redirect="false"/>
+    <file name="index.html" crc="4216729251" seo="true" mt="1447741944481" redirect="false"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="176900373" ref="index"/>
+    <file name="index.css" crc="75061272" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
@@ -27,16 +27,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u567_states.png" crc="479608537" ref="index"/>
-    <file name="u567_states-r.png" crc="479608537" ref="index"/>
-    <file name="u567_states-m.png" crc="4223864573" ref="index"/>
     <file name="sierra berkenbile logo 2015 - final web header-u596.png" crc="223440874" ref="index"/>
-    <file name="u831_states.png" crc="283607715" ref="index"/>
-    <file name="u831_states-r.png" crc="283607715" ref="index"/>
-    <file name="u831_states-m.png" crc="145977401" ref="index"/>
-    <file name="u833_states.png" crc="4112290653" ref="index"/>
-    <file name="u833_states-r.png" crc="4112290653" ref="index"/>
-    <file name="u833_states-m.png" crc="232695979" ref="index"/>
     <file name="acorn.svg" crc="345861504" ref="index"/>
     <file name="acorn_poster_.png" crc="14874755" ref="index"/>
     <file name="download168.svg" crc="380215376" ref="index"/>
@@ -67,16 +58,10 @@
     <file name="19benny gold homepage.jpg" crc="3859482413" seo="true" ref="index"/>
     <file name="23memorial day homepage.jpg" crc="4176700912" seo="true" ref="index"/>
     <file name="28ray ban brand banner.jpg" crc="71835141" seo="true" ref="index"/>
-    <file name="website timeline.svg" crc="316823135" ref="index"/>
-    <file name="website timeline_poster_.png" crc="3948016539" ref="index"/>
-    <file name="u3900-4.png" crc="232052202" ref="index"/>
-    <file name="u3904-4.png" crc="3933065251" ref="index"/>
-    <file name="u3902-4.png" crc="4213315332" ref="index"/>
-    <file name="u3905-4.png" crc="3830339099" ref="index"/>
+    <file name="website timeline.svg" crc="4248731417" ref="index"/>
+    <file name="website timeline_poster_.png" crc="4069684839" ref="index"/>
     <file name="line art_contact page.svg" crc="505274018" ref="index"/>
     <file name="line art_contact page_poster_.png" crc="130285347" ref="index"/>
-    <file name="u3903-4.png" crc="332500560" ref="index"/>
-    <file name="u3906-4.png" crc="4230674239" ref="index"/>
     <file name="diploma.svg" crc="527469966" ref="index"/>
     <file name="diploma_poster_.png" crc="3934297027" ref="index"/>
     <file name="u2563-4.png" crc="4092710115" ref="index"/>
@@ -124,8 +109,8 @@
     <file name="u2450-r.png" crc="3963672462" ref="index"/>
     <file name="u2452.png" crc="3845772864" ref="index"/>
     <file name="u2452-r.png" crc="3845772864" ref="index"/>
-    <file name="u2453.png" crc="4264089875" ref="index"/>
-    <file name="u2453-r.png" crc="4264089875" ref="index"/>
+    <file name="u2453.png" crc="3877784130" ref="index"/>
+    <file name="u2453-r.png" crc="3877784130" ref="index"/>
     <file name="u2464.png" crc="13656294" ref="index"/>
     <file name="u2464-r.png" crc="13656294" ref="index"/>
     <file name="u2465.png" crc="3768224611" ref="index"/>
@@ -137,13 +122,9 @@
     <file name="u2468.png" crc="4030033681" ref="index"/>
     <file name="u2468-r.png" crc="4030033681" ref="index"/>
     <file name="gear icon.png" crc="4123352189" seo="true" ref="index"/>
-    <file name="forward button.jpg" crc="4242225325" seo="true" ref="index"/>
-    <file name="u572_states.png" crc="502307777" ref="index"/>
-    <file name="u572_states-r.png" crc="502307777" ref="index"/>
-    <file name="u572_states-m.png" crc="4075597210" ref="index"/>
     <file name="u4791-4.png" crc="474685178" ref="index"/>
     <file name="line art box with photo 2-01.png" crc="3878643618" seo="true" ref="index"/>
-    <file name="u2167-11.png" crc="403166859" ref="index"/>
+    <file name="u2167-11.png" crc="83911310" ref="index"/>
     <file name="u4790-4.png" crc="3973711958" ref="index"/>
     <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2.jpg" crc="314422618" seo="true" ref="index"/>
     <file name="tshirt_2014 14th annual houston golf shirt social media post.jpg" crc="3798002601" seo="true" ref="index"/>
@@ -314,6 +295,25 @@
     <file name="website background.jpg" crc="4294227918" ref="index"/>
     <file name="orlando soccer proposal.jpg" crc="287180473" seo="true" ref="index"/>
     <file name="orlando soccer proposal-crop-u9831.jpg" crc="3988212166" ref="index"/>
+    <file name="u9968_states.png" crc="502307777" ref="index"/>
+    <file name="u9968_states-m.png" crc="4075597210" ref="index"/>
+    <file name="u9969_states.png" crc="283607715" ref="index"/>
+    <file name="u9969_states-m.png" crc="145977401" ref="index"/>
+    <file name="u9970_states.png" crc="4112290653" ref="index"/>
+    <file name="u9970_states-m.png" crc="232695979" ref="index"/>
+    <file name="u9971_states.png" crc="479608537" ref="index"/>
+    <file name="u9971_states-m.png" crc="4223864573" ref="index"/>
+    <file name="u3904.png" crc="140051938" ref="index"/>
+    <file name="u3904-r.png" crc="4139130120" ref="index"/>
+    <file name="u3905.png" crc="273806389" ref="index"/>
+    <file name="u3905-r.png" crc="3993588804" ref="index"/>
+    <file name="computer-screen5.svg" crc="3814277609" ref="index"/>
+    <file name="computer-screen5_poster_.png" crc="401262274" ref="index"/>
+    <file name="u3906.png" crc="368342815" ref="index"/>
+    <file name="u3906-r.png" crc="402171768" ref="index"/>
+    <file name="graphic design icon.png" crc="253719289" seo="true" ref="index"/>
+    <file name="branding icon.png" crc="131627549" seo="true" ref="index"/>
+    <file name="marketing icon.png" crc="4072720813" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="404697262" seo="true" mt="1447548837628" redirect="true"/>
+  <file name="index.html" crc="3848894048" seo="true" mt="1447788858668" redirect="true"/>
 </manifest>
