@@ -20,8 +20,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #47A2BE;
+	color: #00000B;
+	background-color: #471297;
 }
 
 .html
@@ -242,7 +242,7 @@
 
 #u1326_position_content
 {
-	padding-top: 98px;
+	padding-top: 80px;
 	padding-bottom: 80px;
 }
 
@@ -260,7 +260,7 @@
 	width: 726px;
 	background-color: transparent;
 	left: 219px;
-	margin-top: 68px;
+	margin-top: 78px;
 	position: relative;
 }
 
@@ -297,7 +297,7 @@
 #u1321_position_content
 {
 	margin-bottom: -67px;
-	padding-top: 58px;
+	padding-top: 40px;
 }
 
 #u4790-4
@@ -316,7 +316,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 124px;
-	margin-top: 90px;
+	margin-top: 100px;
 	position: relative;
 }
 
@@ -3868,7 +3868,7 @@
 #u9928
 {
 	z-index: 489;
-	height: 98px;
+	height: 68px;
 	background-color: #FFFFFF;
 }
 
@@ -3876,7 +3876,7 @@
 {
 	z-index: 489;
 	margin-top: 936px;
-	height: 98px;
+	height: 68px;
 }
 
 #u9930
@@ -3969,7 +3969,7 @@
 
 #u5695_position_content
 {
-	padding-top: 98px;
+	padding-top: 80px;
 	padding-bottom: 715px;
 }
 
@@ -3986,7 +3986,7 @@
 {
 	width: 0.01px;
 	left: 531px;
-	margin-top: 30px;
+	margin-top: 40px;
 	position: relative;
 }
 
@@ -4020,20 +4020,13 @@
 #u9990
 {
 	z-index: 494;
-	min-height: 655.6300205369553px;
+	width: 410px;
 	background-color: #D9D9D9;
-	padding-bottom: 0px;
-}
-
-#u9990_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 960px;
 	position: relative;
-	left: -100px;
-	padding-top: 105px;
-	padding-bottom: 138px;
+	margin-right: -10000px;
+	margin-top: 581px;
+	left: 83px;
+	padding: 105px 150px 138.36997946304473px 600px;
 }
 
 #u9991
@@ -4043,7 +4036,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	left: 600px;
 	position: relative;
 }
 
@@ -4071,7 +4063,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	left: 600px;
 	margin-top: 134px;
 	position: relative;
 }
@@ -4090,13 +4081,6 @@
 #u3905:hover
 {
 	background: url("../images/u3905-r.png") no-repeat 0px 0px;
-}
-
-#u9990-bw
-{
-	z-index: 494;
-	min-height: 655.6300205369553px;
-	margin-top: 581px;
 }
 
 #u9985
@@ -5083,7 +5067,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 93px;
-	left: 716px;
+	left: 674px;
 }
 
 #u9974-bw
@@ -5128,7 +5112,7 @@
 	z-index: 482;
 	display: block;
 	vertical-align: top;
-	margin-top: 75px;
+	margin-top: 57px;
 	position: relative;
 }
 
@@ -5141,7 +5125,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 251px;
-	margin-top: 29px;
+	margin-top: 39px;
 	position: relative;
 }
 
