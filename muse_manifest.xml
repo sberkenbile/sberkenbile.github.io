@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447788877146">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447789433764">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -315,5 +315,5 @@
     <file name="branding icon.png" crc="131627549" seo="true" ref="index"/>
     <file name="marketing icon.png" crc="4072720813" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3848894048" seo="true" mt="1447788858668" redirect="true"/>
+  <file name="index.html" crc="4124128284" seo="true" mt="1447789417424" redirect="true"/>
 </manifest>
