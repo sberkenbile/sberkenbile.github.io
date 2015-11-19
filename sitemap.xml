@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://sierraberkenbile.com/assets/sierra-berkenbile-resume-november-2015.pdf</loc>
-    <lastmod>2015-11-09</lastmod>
+    <lastmod>2015-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sierraberkenbile.com/assets/sierra-berkenbile-resume-november-2015-final.pdf</loc>
+    <lastmod>2015-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,12 +74,6 @@
   </url>
   <url>
     <loc>http://sierraberkenbile.com/images/tshirt_2014%2014th%20annual%20houston%20golf%20classic%20t-shirt%20mock-up%202.jpg</loc>
-    <lastmod>2015-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://sierraberkenbile.com/images/ad_%20dc%20b-g%20club.jpg</loc>
     <lastmod>2015-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

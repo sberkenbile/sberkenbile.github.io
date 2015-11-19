@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447837438072">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447898946994">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -6,11 +6,12 @@
     <file name="index.html" crc="4216729251" seo="true" mt="1447741944481" redirect="false"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4254325523"/>
-    <file name="index.css" crc="4076494864" ref="index"/>
+    <file name="site_global.css" crc="4148073339"/>
+    <file name="index.css" crc="4070600910" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="sierra-berkenbile-resume-november-2015.pdf" crc="4248474893" seo="true" mt="1447100166000"/>
+    <file name="sierra-berkenbile-resume-november-2015.pdf" crc="3933129041" seo="true" mt="1447895126000"/>
+    <file name="sierra-berkenbile-resume-november-2015-final.pdf" crc="4269810904" seo="true" mt="1447895878000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:phone>index"/>
@@ -30,10 +31,8 @@
     <file name="sierra berkenbile logo 2015 - final web header-u596.png" crc="223440874" ref="index"/>
     <file name="acorn.svg" crc="345861504" ref="index"/>
     <file name="acorn_poster_.png" crc="14874755" ref="index"/>
-    <file name="download168.svg" crc="380215376" ref="index"/>
-    <file name="download168_poster_.png" crc="4216756398" ref="index"/>
     <file name="eye110.svg" crc="356990448" ref="index"/>
-    <file name="eye110_poster_.png" crc="4201745221" ref="index"/>
+    <file name="eye110_poster_.png" crc="4120934000" ref="index"/>
     <file name="u1337.png" crc="248835660" ref="index"/>
     <file name="u1337-r.png" crc="39647187" ref="index"/>
     <file name="u1337-a.png" crc="221136385" ref="index"/>
@@ -123,13 +122,12 @@
     <file name="gear icon.png" crc="4123352189" seo="true" ref="index"/>
     <file name="u4791-4.png" crc="185649435" ref="index"/>
     <file name="line art box with photo 2-01.png" crc="3878643618" seo="true" ref="index"/>
-    <file name="u2167-11.png" crc="83911310" ref="index"/>
+    <file name="u2167-11.png" crc="3977331765" ref="index"/>
     <file name="u4790-4.png" crc="4261711934" ref="index"/>
     <file name="tshirt_2014 14th annual houston golf classic t-shirt mock-up 2.jpg" crc="172577983" seo="true" ref="index"/>
-    <file name="ad_ dc b-g club.jpg" crc="3954749455" seo="true" ref="index"/>
     <file name="ad_2013 oklahoma mag mcg ad.jpg" crc="399855475" seo="true" ref="index"/>
     <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01.jpg" crc="115113297" seo="true" ref="index"/>
-    <file name="graphic_my mentoring program.jpg" crc="4099027457" seo="true" ref="index"/>
+    <file name="graphic_my mentoring program.jpg" crc="267903779" seo="true" ref="index"/>
     <file name="misc art_falcons placemat_page_1.jpg" crc="4117757086" seo="true" ref="index"/>
     <file name="misc art_orlando city soccer placemat.jpg" crc="4039087956" seo="true" ref="index"/>
     <file name="tshirt_3574 topping out 06 27 2014 012.jpg" crc="3838981958" seo="true" ref="index"/>
@@ -137,12 +135,12 @@
     <file name="tshirt_3594 frost tower topping out 12 04 2014 010.jpg" crc="3982363694" seo="true" ref="index"/>
     <file name="tshirt_houston komen 2014 mock up 2.jpg" crc="3763083351" seo="true" ref="index"/>
     <file name="dsc01620.jpg" crc="56705369" ref="index"/>
-    <file name="u5693-4.png" crc="299076365" ref="index"/>
+    <file name="u5693-4.png" crc="484683316" ref="index"/>
     <file name="recruitment postcard.png" crc="508986168" seo="true" ref="index"/>
     <file name="smps postcard.png" crc="324320465" seo="true" ref="index"/>
     <file name="naples botanical gardens ad.png" crc="64057119" seo="true" ref="index"/>
-    <file name="graphic_specialty contractor awards luncheon copy.jpg" crc="4222931971" seo="true" ref="index"/>
-    <file name="graphics_gateway logos copy.jpg" crc="3917274613" seo="true" ref="index"/>
+    <file name="graphic_specialty contractor awards luncheon copy.jpg" crc="46024099" seo="true" ref="index"/>
+    <file name="graphics_gateway logos copy.jpg" crc="254991722" seo="true" ref="index"/>
     <file name="green building brochure.png" crc="4114220347" seo="true" ref="index"/>
     <file name="road and bridge brochure.png" crc="3764880731" seo="true" ref="index"/>
     <file name="buccaneers proposal.png" crc="4294692483" seo="true" ref="index"/>
@@ -154,7 +152,7 @@
     <file name="falcons banner presentation.jpg" crc="310412214" seo="true" ref="index"/>
     <file name="fairfax public safety headquarters topping out shirt june 2015 - alternate layout_mock up.jpg" crc="352363103" seo="true" ref="index"/>
     <file name="recruitment postcard107x96.png" crc="3915542364" seo="true" ref="index"/>
-    <file name="graphics_gateway logos copy125x96.jpg" crc="3919765936" seo="true" ref="index"/>
+    <file name="graphics_gateway logos copy125x96.jpg" crc="433903419" seo="true" ref="index"/>
     <file name="falcons banner presentation128x96.jpg" crc="501290416" seo="true" ref="index"/>
     <file name="u5759-4.png" crc="298281468" ref="index"/>
     <file name="bag and logo designs.png" crc="419928318" seo="true" ref="index"/>
@@ -228,14 +226,14 @@
     <file name="u9970_states-m.png" crc="232695979" ref="index"/>
     <file name="u9971_states.png" crc="479608537" ref="index"/>
     <file name="u9971_states-m.png" crc="4223864573" ref="index"/>
-    <file name="u3904.png" crc="7121430" ref="index"/>
-    <file name="u3904-r.png" crc="4139130120" ref="index"/>
-    <file name="u3905.png" crc="4019834960" ref="index"/>
-    <file name="u3905-r.png" crc="3993588804" ref="index"/>
+    <file name="u3904.png" crc="425787123" ref="index"/>
+    <file name="u3904-r.png" crc="454048449" ref="index"/>
+    <file name="u3905.png" crc="4192503313" ref="index"/>
+    <file name="u3905-r.png" crc="3839038132" ref="index"/>
     <file name="computer-screen5.svg" crc="3814277609" ref="index"/>
     <file name="computer-screen5_poster_.png" crc="401262274" ref="index"/>
-    <file name="u3906.png" crc="4083036878" ref="index"/>
-    <file name="u3906-r.png" crc="402171768" ref="index"/>
+    <file name="u3906.png" crc="4149082217" ref="index"/>
+    <file name="u3906-r.png" crc="3898646891" ref="index"/>
     <file name="graphic design icon.png" crc="253719289" seo="true" ref="index"/>
     <file name="branding icon.png" crc="131627549" seo="true" ref="index"/>
     <file name="marketing icon.png" crc="4072720813" seo="true" ref="index"/>
@@ -246,10 +244,9 @@
     <file name="naples botanical gardens ad-crop-u10783.png" crc="131698148" ref="index"/>
     <file name="ad_2013 oklahoma mag mcg ad-crop-u10640.jpg" crc="4122413682" ref="index"/>
     <file name="smps postcard-crop-u10900.png" crc="3988476477" ref="index"/>
-    <file name="ad_ dc b-g club-crop-u11147.jpg" crc="230487157" ref="index"/>
     <file name="graphic_career path interactive interactive pdf sept 2014 - draft_page_01128x96.jpg" crc="459929271" seo="true" ref="index"/>
-    <file name="graphic_my mentoring program-crop-u10676.jpg" crc="54928785" ref="index"/>
-    <file name="graphic_specialty contractor awards luncheon copy-crop-u10697.jpg" crc="3958332532" ref="index"/>
+    <file name="graphic_my mentoring program-crop-u10676.jpg" crc="255245721" ref="index"/>
+    <file name="graphic_specialty contractor awards luncheon copy-crop-u10697.jpg" crc="3921703538" ref="index"/>
     <file name="green building brochure-crop-u10730.png" crc="3908043795" ref="index"/>
     <file name="road and bridge brochure-crop-u10867.png" crc="4000290065" ref="index"/>
     <file name="pipeline brochure-crop-u11196.png" crc="3780846529" ref="index"/>
@@ -331,5 +328,5 @@
     <file name="forward icon-u14861-r.png" crc="3992814208" ref="index"/>
     <file name="forward icon-u14861-m.png" crc="3927969533" ref="index"/>
   </folder>
-  <file name="index.html" crc="3945312524" seo="true" mt="1447837417682" redirect="true"/>
+  <file name="index.html" crc="48276263" seo="true" mt="1447898929973" redirect="true"/>
 </manifest>
