@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447898946994">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sierraberkenbile.com" resolutions="1x" timestamp="1447900487376">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4107295331" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4148073339"/>
-    <file name="index.css" crc="4070600910" ref="index"/>
+    <file name="index.css" crc="4113215470" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="sierra-berkenbile-resume-november-2015.pdf" crc="3933129041" seo="true" mt="1447895126000"/>
@@ -328,5 +328,5 @@
     <file name="forward icon-u14861-r.png" crc="3992814208" ref="index"/>
     <file name="forward icon-u14861-m.png" crc="3927969533" ref="index"/>
   </folder>
-  <file name="index.html" crc="48276263" seo="true" mt="1447898929973" redirect="true"/>
+  <file name="index.html" crc="3993164403" seo="true" mt="1447900466220" redirect="true"/>
 </manifest>
